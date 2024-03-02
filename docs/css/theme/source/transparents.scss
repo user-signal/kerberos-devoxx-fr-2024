@@ -1,8 +1,9 @@
 @import "../template/mixins";
 @import "../template/settings";
 
-@import url(./fonts/Ubuntu/Ubuntu.css);
+@import url(./fonts/league-gothic/league-gothic.css);
 @import url(./fonts/Iosevka/Iosevka.css);
+@import url(./fonts/Lato/Lato.css);
 
 html * {
 	color-profile: sRGB;
@@ -37,8 +38,8 @@ $selectionBackgroundColor: $magenta;
 $overlayElementBgColor: 0, 0, 0;
 $overlayElementFgColor: 240, 240, 240;
 
-$mainFont: Ubuntu, 'sans-serif';
-$headingFont: Ubuntu, 'sans-serif';
+$mainFont: Lato, 'sans-serif';
+$headingFont: League Gothic, 'sans-serif';
 $codeFont: Iosevka;
 
 // Theme template ------------------------------

@@ -41,6 +41,22 @@
         </section>
 
         <section>
+            <h2>Needham-Schroeder</h2>
+            <img style="margin-bottom: 100%" src="./images/Needham-Schroeder.png" alt="Needham-Schroder paper">
+        </section>
+
+        <section>
+            <h2 style="margin-bottom: 1em">Notation de protocole de sécurité</h2>
+            <div class="list" style="margin-bottom: 100%">
+                <div class="item" style="margin-bottom: 1ex; justify-self: left">$A\rightarrow S:A, B, N_A$</div>
+                <div class="item" style="margin-bottom: 1ex; justify-self: left">$S\rightarrow A:\{N_{A},K_{AB},B,\{K_{AB},A\}_{K_{BS}}\}_{K_{AS}}$</div>
+                <div class="item" style="margin-bottom: 1ex; justify-self: left">$A\rightarrow B:\{K_{AB},A\}_{K_{BS}}$</div>
+                <div class="item" style="margin-bottom: 1ex; justify-self: left">$B\rightarrow A:\{N_{B}\}_{K_{AB}}$</div>
+                <div class="item" style="margin-bottom: 1ex; justify-self: left">$A\rightarrow B:\{N_{B}-1\}_{K_{AB}}$</div>
+            </div>
+        </section>
+
+        <section>
             <h2 style="margin-bottom: 1.5em">Test Math</h2>
             <div style="margin-bottom: 100%;  display: grid; grid-template-columns: 3fr 2fr">
                 <div style="justify-self: center">$x$</div>
@@ -63,7 +79,9 @@
             <pre class="fragment" style="font-size: 1.1ex; margin-top: 5em"><code class="C#" style="max-height: 800px">
                         public static int Add(int x, int y) => x + y;
             </code><div class="lang">C#</div></pre>
-            <pre class="fragment" style="font-size: 1.1ex; margin-top: 1ex; margin-bottom: 100%"><code class="C#" style="max-height: 800px" data-noescape>
+            <pre class="fragment" style="font-size: 1.1ex; margin-top: 1ex; margin-bottom: 100%"><code class="C#"
+                                                                                                       style="max-height: 800px"
+                                                                                                       data-noescape>
                         Add(Add(19, 42), Add(13, 17))
             </code><div class="lang">C#</div></pre>
         </section>

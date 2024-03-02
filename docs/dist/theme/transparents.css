@@ -1,5 +1,6 @@
-@import url(./fonts/Ubuntu/Ubuntu.css);
+@import url(./fonts/league-gothic/league-gothic.css);
 @import url(./fonts/Iosevka/Iosevka.css);
+@import url(./fonts/Lato/Lato.css);
 html * {
   color-profile: sRGB;
   rendering-intent: auto;
@@ -10,12 +11,12 @@ html * {
  *********************************************/
 :root {
   --r-background-color: white;
-  --r-main-font: Ubuntu, sans-serif;
+  --r-main-font: Lato, sans-serif;
   --r-main-font-size: 40px;
   --r-main-color: #657b83;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
-  --r-heading-font: Ubuntu, sans-serif;
+  --r-heading-font: League Gothic, sans-serif;
   --r-heading-color: #586e75;
   --r-heading-line-height: 1.2;
   --r-heading-letter-spacing: normal;
