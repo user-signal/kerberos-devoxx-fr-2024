@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+
+    <title>Index Template</title>
+
+    <meta name="description" content="Index Template"/>
+    <meta name="author" content="Frédéric Cabestre"/>
+
+    <link rel="stylesheet" href="./dist/reset.css">
+    <link rel="stylesheet" href="./dist/reveal.css">
+    <link rel="stylesheet" href="./dist/theme/transparents.css" id="theme"/>
+
+    <!-- Code syntax highlighting -->
+    <link rel="stylesheet" href="./plugin/highlight/zenburn.css"/>
+</head>
+
+<body>
+<div class="reveal">
+    <div class="slides">
+
+        <section>
+            <h3>Index</h3>
+            <h1>Template</h1>
+        </section>
+
+        <section>
+            <div style="display: flex; justify-content: space-between">
+                <div style="margin-left: 2em; display: flex; flex-direction: column">
+                    <div style="margin-top: 1em; text-align: left" class="green">Frédéric Cabestre</div>
+                    <div style="font-size: smaller; text-align: left" class="blue">@fcabestre</div>
+                </div>
+            </div>
+            <blockquote style="margin-top: 12em; margin-right: 2em; margin-bottom: 100%">
+                I'm not a number, I'm a freelance.
+                <div style="font-size: smaller">&mdash; Number 6, <a href="https://en.wikipedia.org/wiki/The_Prisoner">The
+                    Prisoner</a></div>
+            </blockquote>
+        </section>
+
+        <section>
+            <h2 style="margin-bottom: 1.5em">Test Math</h2>
+            <div style="margin-bottom: 100%;  display: grid; grid-template-columns: 3fr 2fr">
+                <div style="justify-self: center">$x$</div>
+                <div style="justify-self: start"> Variable</div>
+                <div style="justify-self: center">$\lambda x.\,M$</div>
+                <div style="justify-self: start"> Abstraction</div>
+                <div style="justify-self: center; margin-bottom: 2.5em">$M\,N$</div>
+                <div style="margin-bottom: 2.5em; justify-self: start"> Application</div>
+                <div style="justify-self: center">$\lambda x.\,(f\,x) \rightarrow f$</div>
+                <div style="justify-self: start">$\eta$-reduction</div>
+                <div style="justify-self: center">$\lambda x.\,M[x] \rightarrow \lambda y.\,M[y]$</div>
+                <div style="justify-self: start">$\alpha$-conversion</div>
+                <div class="yellow" style="justify-self: center">$(\lambda x.\,M)\:E \rightarrow M[x:=E]$</div>
+                <div class="yellow" style="justify-self: start">$\beta$-reduction</div>
+            </div>
+        </section>
+
+        <section>
+            <h2>Test Code</h2>
+            <pre class="fragment" style="font-size: 1.1ex; margin-top: 5em"><code class="C#" style="max-height: 800px">
+                        public static int Add(int x, int y) => x + y;
+            </code><div class="lang">C#</div></pre>
+            <pre class="fragment" style="font-size: 1.1ex; margin-top: 1ex; margin-bottom: 100%"><code class="C#" style="max-height: 800px" data-noescape>
+                        Add(Add(19, 42), Add(13, 17))
+            </code><div class="lang">C#</div></pre>
+        </section>
+
+        <section>
+            <h2>Test image SVG</h2>
+            <div class="r-stack">
+                <object class="fragment fade-in-then-out" data="./images/test1.svg"></object>
+                <object class="fragment fade-in-then-out" data="./images/test2.svg"></object>
+            </div>
+        </section>
+    </div>
+</div>
+
+<script src="./dist/reveal.js"></script>
+<script src="./plugin/notes/notes.js"></script>
+<script src="./plugin/markdown/markdown.js"></script>
+<script src="./plugin/highlight/highlight.js"></script>
+<script src="./plugin/math/math.js"></script>
+
+<script>
+    // Full list of configuration options available at:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: false,
+        progress: false,
+        history: true,
+        center: true,
+        width: 1600,
+        height: 900,
+
+        transition: "none",
+
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX],
+
+        katex: {
+            local: " ",
+            trust: true
+        },
+    });
+</script>
+</body>
+</html>

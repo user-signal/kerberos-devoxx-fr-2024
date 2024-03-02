@@ -1,0 +1,8 @@
+#!/bin/env bash
+set -euo pipefail
+cp -a index.html ../docs
+cp -a Iosevka Ubuntu ../docs/dist/theme/fonts
+cp -a katex/* ../docs/dist
+cp -a images ../docs
+cp -a transparents.scss ../docs/css/theme/source
+
