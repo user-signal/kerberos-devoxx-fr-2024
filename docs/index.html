@@ -21,8 +21,7 @@
     <div class="slides">
 
         <section>
-            <h3 style="margin-top: 1.5em">Retour aux sources de</h3>
-            <h3>l'authentification unique</h3>
+            <h3 class="yellow" style="margin-top: 1.5em">Retour aux sources de l'authentification unique</h3>
             <h1 style="margin-top: 2ex; margin-bottom: 100%">Kerberos</h1>
         </section>
 
@@ -41,19 +40,50 @@
         </section>
 
         <section>
+            <h2 style="margin-bottom: 1em">Cerbère</h2>
+            <img style="margin-bottom: 100%" src="./images/Cerbère_(66).JPG" alt="Cerbère Pyrénées Orientales">
+        </section>
+
+        <section>
+            <h2 style="margin-bottom: 1em">Cerbère</h2>
+            <img style="margin-bottom: 100%" src="./images/Peter_Paul_Rubens_-_Hercules_and_Cerberus,_1636.jpg" alt="Cerbère Pyrénées Orientales">
+        </section>
+
+
+        <section>
+            <h2 style="margin-bottom: 1em">Cerbère</h2>
+            <img style="margin-bottom: 100%" src="./images/Cerberus-Blake.jpeg" alt="Cerbère Pyrénées Orientales">
+        </section>
+
+        <section>
             <h2>Needham-Schroeder</h2>
             <img style="margin-bottom: 100%" src="./images/Needham-Schroeder.png" alt="Needham-Schroder paper">
         </section>
 
         <section>
-            <h2 style="margin-bottom: 1em">Notation de protocole de sécurité</h2>
+            <h2 style="margin-bottom: 2.5em">Notation de protocole de sécurité</h2>
             <div class="list" style="margin-bottom: 100%">
-                <div class="item" style="margin-bottom: 1ex; justify-self: left">$A\rightarrow S:A, B, N_A$</div>
-                <div class="item" style="margin-bottom: 1ex; justify-self: left">$S\rightarrow A:\{N_{A},K_{AB},B,\{K_{AB},A\}_{K_{BS}}\}_{K_{AS}}$</div>
-                <div class="item" style="margin-bottom: 1ex; justify-self: left">$A\rightarrow B:\{K_{AB},A\}_{K_{BS}}$</div>
-                <div class="item" style="margin-bottom: 1ex; justify-self: left">$B\rightarrow A:\{N_{B}\}_{K_{AB}}$</div>
-                <div class="item" style="margin-bottom: 1ex; justify-self: left">$A\rightarrow B:\{N_{B}-1\}_{K_{AB}}$</div>
+                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow S:A, B, N_A$</div>
+                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$S\rightarrow A:\{N_{A},K_{AB},B,\{K_{AB},A\}_{K_{BS}}\}_{K_{AS}}$</div>
+                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow B:\{K_{AB},A\}_{K_{BS}}$</div>
+                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$B\rightarrow A:\{N_{B}\}_{K_{AB}}$</div>
+                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow B:\{N_{B}-1\}_{K_{AB}}$</div>
             </div>
+        </section>
+
+        <section>
+            <h2 style="margin-bottom: 1.5em">VT-100</h2>
+
+            <div style="margin-bottom: 100%; display: grid; grid: 'left right' / 1fr 1fr">
+                <div style="align-self: center; grid-area: left" class="fragment">
+                    <img style="grid-area: right" src="./images/Terminal-dec-vt100.jpg" alt="">
+                </div>
+
+                <div style="align-self: center; grid-area: right" class="fragment">
+                    <img style="grid-area: right" src="./images/640px-Digital_PDP11-IMG_1498_cropped.jpg" alt="">
+                </div>
+            </div>
+
         </section>
 
         <section>
@@ -79,9 +109,7 @@
             <pre class="fragment" style="font-size: 1.1ex; margin-top: 5em"><code class="C#" style="max-height: 800px">
                         public static int Add(int x, int y) => x + y;
             </code><div class="lang">C#</div></pre>
-            <pre class="fragment" style="font-size: 1.1ex; margin-top: 1ex; margin-bottom: 100%"><code class="C#"
-                                                                                                       style="max-height: 800px"
-                                                                                                       data-noescape>
+            <pre class="fragment" style="font-size: 1.1ex; margin-top: 1ex; margin-bottom: 100%"><code class="C#" style="max-height: 800px" data-noescape>
                         Add(Add(19, 42), Add(13, 17))
             </code><div class="lang">C#</div></pre>
         </section>
