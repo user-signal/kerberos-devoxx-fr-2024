@@ -484,3 +484,25 @@ html * {
 .reveal .slides section .fragment.highlight-current-back.visible {
   background-color: #657b83;
 }
+
+.reveal img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.caption {
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+}
+
+.caption img {
+  margin-bottom: 0;
+}
+
+.caption p {
+  text-align: left;
+  position: absolute;
+  font-size: small;
+  margin-top: -25px;
+}

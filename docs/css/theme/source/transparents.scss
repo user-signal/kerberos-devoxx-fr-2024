@@ -6,33 +6,33 @@
 @import url(./fonts/Lato/Lato.css);
 
 html * {
-	color-profile: sRGB;
-	rendering-intent: auto;
+  color-profile: sRGB;
+  rendering-intent: auto;
 }
 
-$base03:    #002b36;
-$base02:    #073642;
-$base01:    #586e75;
-$base00:    #657b83;
-$base0:     #839496;
-$base1:     #93a1a1;
-$base2:     #eee8d5;
-$base3:     #fdf6e3;
-$yellow:    #b58900;
-$orange:    #cb4b16;
-$red:       #dc322f;
-$magenta:   #d33682;
-$violet:    #6c71c4;
-$blue:      #268bd2;
-$cyan:      #2aa198;
-$green:     #859900;
+$base03: #002b36;
+$base02: #073642;
+$base01: #586e75;
+$base00: #657b83;
+$base0: #839496;
+$base1: #93a1a1;
+$base2: #eee8d5;
+$base3: #fdf6e3;
+$yellow: #b58900;
+$orange: #cb4b16;
+$red: #dc322f;
+$magenta: #d33682;
+$violet: #6c71c4;
+$blue: #268bd2;
+$cyan: #2aa198;
+$green: #859900;
 
 $mainColor: $base00;
 $headingColor: $base01;
 $headingTextShadow: none;
 $backgroundColor: white;
 $linkColor: $blue;
-$linkColorHover: lighten( $linkColor, 20% );
+$linkColorHover: lighten($linkColor, 20%);
 $selectionBackgroundColor: $magenta;
 
 $overlayElementBgColor: 0, 0, 0;
@@ -168,12 +168,33 @@ $codeFont: Iosevka;
   border: 1px solid $base01;
 }
 
-
 .reveal .slides section .fragment.highlight-current-back {
   opacity: 1;
   visibility: inherit;
-  
+
   &.visible {
     background-color: $base00;
   }
+}
+
+.reveal img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.caption {
+  display: inline-block;
+  vertical-align: middle;
+  position: relative
+}
+
+.caption img {
+  margin-bottom: 0;
+}
+
+.caption p {
+  text-align: left;
+  position: absolute;
+  font-size: small;
+  margin-top: -25px;
 }
