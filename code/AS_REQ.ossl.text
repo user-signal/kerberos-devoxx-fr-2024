@@ -1,0 +1,57 @@
+    0:d=0  hl=3 l= 174 cons: SEQUENCE          
+    3:d=1  hl=2 l=   3 cons:  cont [ 1 ]        
+    5:d=2  hl=2 l=   1 prim:   INTEGER           :05
+    8:d=1  hl=2 l=   3 cons:  cont [ 2 ]        
+   10:d=2  hl=2 l=   1 prim:   INTEGER           :0A
+   13:d=1  hl=2 l=  26 cons:  cont [ 3 ]        
+   15:d=2  hl=2 l=  24 cons:   SEQUENCE          
+   17:d=3  hl=2 l=  10 cons:    SEQUENCE          
+   19:d=4  hl=2 l=   4 cons:     cont [ 1 ]        
+   21:d=5  hl=2 l=   2 prim:      INTEGER           :96
+   25:d=4  hl=2 l=   2 cons:     cont [ 2 ]        
+   27:d=5  hl=2 l=   0 prim:      OCTET STRING      
+   29:d=3  hl=2 l=  10 cons:    SEQUENCE          
+   31:d=4  hl=2 l=   4 cons:     cont [ 1 ]        
+   33:d=5  hl=2 l=   2 prim:      INTEGER           :95
+   37:d=4  hl=2 l=   2 cons:     cont [ 2 ]        
+   39:d=5  hl=2 l=   0 prim:      OCTET STRING      
+   41:d=1  hl=3 l= 133 cons:  cont [ 4 ]        
+   44:d=2  hl=3 l= 130 cons:   SEQUENCE          
+   47:d=3  hl=2 l=   7 cons:    cont [ 0 ]        
+   49:d=4  hl=2 l=   5 prim:     BIT STRING        
+      0000 - 00 50 00 00 10                                    .P...
+   56:d=3  hl=2 l=  17 cons:    cont [ 1 ]        
+   58:d=4  hl=2 l=  15 cons:     SEQUENCE          
+   60:d=5  hl=2 l=   3 cons:      cont [ 0 ]        
+   62:d=6  hl=2 l=   1 prim:       INTEGER           :01
+   65:d=5  hl=2 l=   8 cons:      cont [ 1 ]        
+   67:d=6  hl=2 l=   6 cons:       SEQUENCE          
+   69:d=7  hl=2 l=   4 prim:        GENERALSTRING     
+      0000 - 66 72 65 64                                       fred
+   75:d=3  hl=2 l=  12 cons:    cont [ 2 ]        
+   77:d=4  hl=2 l=  10 prim:     GENERALSTRING     
+      0000 - 53 49 47 55 53 52 2e 4e-45 54                     SIGUSR.NET
+   89:d=3  hl=2 l=  31 cons:    cont [ 3 ]        
+   91:d=4  hl=2 l=  29 cons:     SEQUENCE          
+   93:d=5  hl=2 l=   3 cons:      cont [ 0 ]        
+   95:d=6  hl=2 l=   1 prim:       INTEGER           :02
+   98:d=5  hl=2 l=  22 cons:      cont [ 1 ]        
+  100:d=6  hl=2 l=  20 cons:       SEQUENCE          
+  102:d=7  hl=2 l=   6 prim:        GENERALSTRING     
+      0000 - 6b 72 62 74 67 74                                 krbtgt
+  110:d=7  hl=2 l=  10 prim:        GENERALSTRING     
+      0000 - 53 49 47 55 53 52 2e 4e-45 54                     SIGUSR.NET
+  122:d=3  hl=2 l=  17 cons:    cont [ 5 ]        
+  124:d=4  hl=2 l=  15 prim:     GENERALIZEDTIME   :20240306080443Z
+  141:d=3  hl=2 l=   6 cons:    cont [ 7 ]        
+  143:d=4  hl=2 l=   4 prim:     INTEGER           :2747110F
+  149:d=3  hl=2 l=  26 cons:    cont [ 8 ]        
+  151:d=4  hl=2 l=  24 cons:     SEQUENCE          
+  153:d=5  hl=2 l=   1 prim:      INTEGER           :12
+  156:d=5  hl=2 l=   1 prim:      INTEGER           :11
+  159:d=5  hl=2 l=   1 prim:      INTEGER           :14
+  162:d=5  hl=2 l=   1 prim:      INTEGER           :13
+  165:d=5  hl=2 l=   1 prim:      INTEGER           :10
+  168:d=5  hl=2 l=   1 prim:      INTEGER           :17
+  171:d=5  hl=2 l=   1 prim:      INTEGER           :19
+  174:d=5  hl=2 l=   1 prim:      INTEGER           :1A

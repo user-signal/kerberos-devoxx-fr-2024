@@ -1,0 +1,72 @@
+Frame 12: 224 bytes on wire (1792 bits), 224 bytes captured (1792 bits) on interface any, id 0
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+User Datagram Protocol, Src Port: 36962, Dst Port: 88
+Kerberos
+    as-req
+        pvno: 5
+        msg-type: krb-as-req (10)
+        padata: 2 items
+            PA-DATA Unknown:150
+                padata-type: Unknown (150)
+                    padata-value: <MISSING>
+            PA-DATA pA-REQ-ENC-PA-REP
+                padata-type: pA-REQ-ENC-PA-REP (149)
+                    padata-value: <MISSING>
+        req-body
+            Padding: 0
+            kdc-options: 50000010
+                0... .... = reserved: False
+                .1.. .... = forwardable: True
+                ..0. .... = forwarded: False
+                ...1 .... = proxiable: True
+                .... 0... = proxy: False
+                .... .0.. = allow-postdate: False
+                .... ..0. = postdated: False
+                .... ...0 = unused7: False
+                0... .... = renewable: False
+                .0.. .... = unused9: False
+                ..0. .... = unused10: False
+                ...0 .... = opt-hardware-auth: False
+                .... 0... = unused12: False
+                .... .0.. = unused13: False
+                .... ..0. = constrained-delegation: False
+                .... ...0 = canonicalize: False
+                0... .... = request-anonymous: False
+                .0.. .... = unused17: False
+                ..0. .... = unused18: False
+                ...0 .... = unused19: False
+                .... 0... = unused20: False
+                .... .0.. = unused21: False
+                .... ..0. = unused22: False
+                .... ...0 = unused23: False
+                0... .... = unused24: False
+                .0.. .... = unused25: False
+                ..0. .... = disable-transited-check: False
+                ...1 .... = renewable-ok: True
+                .... 0... = enc-tkt-in-skey: False
+                .... .0.. = unused29: False
+                .... ..0. = renew: False
+                .... ...0 = validate: False
+            cname
+                name-type: kRB5-NT-PRINCIPAL (1)
+                cname-string: 1 item
+                    CNameString: fred
+            realm: SIGUSR.NET
+            sname
+                name-type: kRB5-NT-SRV-INST (2)
+                sname-string: 2 items
+                    SNameString: krbtgt
+                    SNameString: SIGUSR.NET
+            till: 2024-03-06 08:04:43 (UTC)
+            nonce: 658968847
+            etype: 8 items
+                ENCTYPE: eTYPE-AES256-CTS-HMAC-SHA1-96 (18)
+                ENCTYPE: eTYPE-AES128-CTS-HMAC-SHA1-96 (17)
+                ENCTYPE: eTYPE-AES256-CTS-HMAC-SHA384-192 (20)
+                ENCTYPE: eTYPE-AES128-CTS-HMAC-SHA256-128 (19)
+                ENCTYPE: eTYPE-DES3-CBC-SHA1 (16)
+                ENCTYPE: eTYPE-ARCFOUR-HMAC-MD5 (23)
+                ENCTYPE: eTYPE-CAMELLIA128-CTS-CMAC (25)
+                ENCTYPE: eTYPE-CAMELLIA256-CTS-CMAC (26)
+

@@ -214,6 +214,189 @@
             </div>
         </section>
 
+        <section>
+            <h2>ASN.1</h2>
+            <img style="margin-bottom: 100%" src="./images/ASN.1.png" alt="RSA paper">
+        </section>
+
+        <section>
+            <h2>ASN.1</h2>
+            <pre style="margin-bottom:100%; font-size: 0.8ex;"><code style="max-height: 800px" class="language-plaintext">
+                                                            000000 30 81 ae a1 03 02 01 05 a2 03 02 01 0a a3 1a 30  >0..............0<
+                                                            000010 18 30 0a a1 04 02 02 00 96 a2 02 04 00 30 0a a1  >.0...........0..<
+                                                            000020 04 02 02 00 95 a2 02 04 00 a4 81 85 30 81 82 a0  >............0...<
+                                                            000030 07 03 05 00 50 00 00 10 a1 11 30 0f a0 03 02 01  >....P.....0.....<
+                                                            000040 01 a1 08 30 06 1b 04 66 72 65 64 a2 0c 1b 0a 53  >...0...fred....S<
+                                                            000050 49 47 55 53 52 2e 4e 45 54 a3 1f 30 1d a0 03 02  >IGUSR.NET..0....<
+                                                            000060 01 02 a1 16 30 14 1b 06 6b 72 62 74 67 74 1b 0a  >....0...krbtgt..<
+                                                            000070 53 49 47 55 53 52 2e 4e 45 54 a5 11 18 0f 32 30  >SIGUSR.NET....20<
+                                                            000080 32 34 30 33 30 36 30 38 30 34 34 33 5a a7 06 02  >240306080443Z...<
+                                                            000090 04 27 47 11 0f a8 1a 30 18 02 01 12 02 01 11 02  >.'G....0........<
+                                                            0000a0 01 14 02 01 13 02 01 10 02 01 17 02 01 19 02 01  >................<
+                                                            0000b0 1a                                               >.<
+                                                            0000b1
+            </code></pre>
+        </section>
+
+        <section>
+            <h2>ASN.1</h2>
+            <div style="align-self: stretch; margin-bottom: 100%; display: grid; grid: 'left right' / 1fr 1fr">
+                <div style="grid-area: left;">
+                    <pre style="font-size: 0.8ex;"><code style="max-height: 800px" class="language-plaintext">
+    0:d=0  hl=3 l= 174 cons: SEQUENCE
+    3:d=1  hl=2 l=   3 cons:  cont [ 1 ]
+    5:d=2  hl=2 l=   1 prim:   INTEGER           :05
+    8:d=1  hl=2 l=   3 cons:  cont [ 2 ]
+   10:d=2  hl=2 l=   1 prim:   INTEGER           :0A
+   13:d=1  hl=2 l=  26 cons:  cont [ 3 ]
+   15:d=2  hl=2 l=  24 cons:   SEQUENCE
+   17:d=3  hl=2 l=  10 cons:    SEQUENCE
+   19:d=4  hl=2 l=   4 cons:     cont [ 1 ]
+   21:d=5  hl=2 l=   2 prim:      INTEGER           :96
+   25:d=4  hl=2 l=   2 cons:     cont [ 2 ]
+   27:d=5  hl=2 l=   0 prim:      OCTET STRING
+   29:d=3  hl=2 l=  10 cons:    SEQUENCE
+   31:d=4  hl=2 l=   4 cons:     cont [ 1 ]
+   33:d=5  hl=2 l=   2 prim:      INTEGER           :95
+   37:d=4  hl=2 l=   2 cons:     cont [ 2 ]
+   39:d=5  hl=2 l=   0 prim:      OCTET STRING
+   41:d=1  hl=3 l= 133 cons:  cont [ 4 ]
+   44:d=2  hl=3 l= 130 cons:   SEQUENCE
+   47:d=3  hl=2 l=   7 cons:    cont [ 0 ]
+   49:d=4  hl=2 l=   5 prim:     BIT STRING
+      0000 - 00 50 00 00 10                                    .P...
+   56:d=3  hl=2 l=  17 cons:    cont [ 1 ]
+   58:d=4  hl=2 l=  15 cons:     SEQUENCE
+   60:d=5  hl=2 l=   3 cons:      cont [ 0 ]
+   62:d=6  hl=2 l=   1 prim:       INTEGER           :01
+   65:d=5  hl=2 l=   8 cons:      cont [ 1 ]
+   67:d=6  hl=2 l=   6 cons:       SEQUENCE
+   69:d=7  hl=2 l=   4 prim:        GENERALSTRING
+                    </code></pre>
+                </div>
+                <div style="grid-area: right">
+                    <pre style="font-size: 0.8ex;"><code style="max-height: 800px" class="language-plaintext">
+      0000 - 66 72 65 64                                       fred
+   75:d=3  hl=2 l=  12 cons:    cont [ 2 ]
+   77:d=4  hl=2 l=  10 prim:     GENERALSTRING
+      0000 - 53 49 47 55 53 52 2e 4e-45 54                     SIGUSR.NET
+   89:d=3  hl=2 l=  31 cons:    cont [ 3 ]
+   91:d=4  hl=2 l=  29 cons:     SEQUENCE
+   93:d=5  hl=2 l=   3 cons:      cont [ 0 ]
+   95:d=6  hl=2 l=   1 prim:       INTEGER           :02
+   98:d=5  hl=2 l=  22 cons:      cont [ 1 ]
+  100:d=6  hl=2 l=  20 cons:       SEQUENCE
+  102:d=7  hl=2 l=   6 prim:        GENERALSTRING
+      0000 - 6b 72 62 74 67 74                                 krbtgt
+  110:d=7  hl=2 l=  10 prim:        GENERALSTRING
+      0000 - 53 49 47 55 53 52 2e 4e-45 54                     SIGUSR.NET
+  122:d=3  hl=2 l=  17 cons:    cont [ 5 ]
+  124:d=4  hl=2 l=  15 prim:     GENERALIZEDTIME   :20240306080443Z
+  141:d=3  hl=2 l=   6 cons:    cont [ 7 ]
+  143:d=4  hl=2 l=   4 prim:     INTEGER           :2747110F
+  149:d=3  hl=2 l=  26 cons:    cont [ 8 ]
+  151:d=4  hl=2 l=  24 cons:     SEQUENCE
+  153:d=5  hl=2 l=   1 prim:      INTEGER           :12
+  156:d=5  hl=2 l=   1 prim:      INTEGER           :11
+  159:d=5  hl=2 l=   1 prim:      INTEGER           :14
+  162:d=5  hl=2 l=   1 prim:      INTEGER           :13
+  165:d=5  hl=2 l=   1 prim:      INTEGER           :10
+  168:d=5  hl=2 l=   1 prim:      INTEGER           :17
+  171:d=5  hl=2 l=   1 prim:      INTEGER           :19
+  174:d=5  hl=2 l=   1 prim:      INTEGER           :1A
+                    </code></pre>
+                </div>
+            </div>
+        </section>
+
+
+
+        <section>
+            <h2>ASN.1</h2>
+            <div style="align-self: stretch; margin-bottom: 100%; display: grid; grid: 'left right' / 1fr 1fr">
+                <div style="grid-area: left;">
+                    <pre style="font-size: 0.8ex;"><code style="max-height: 800px" class="language-plaintext">
+Frame 12: 224 bytes on wire (1792 bits), 224 bytes captured (1792 bits) on interface any, id 0
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+User Datagram Protocol, Src Port: 36962, Dst Port: 88
+Kerberos
+    as-req
+        pvno: 5
+        msg-type: krb-as-req (10)
+        padata: 2 items
+            PA-DATA Unknown:150
+                padata-type: Unknown (150)
+                    padata-value: <MISSING>
+            PA-DATA pA-REQ-ENC-PA-REP
+                padata-type: pA-REQ-ENC-PA-REP (149)
+                    padata-value: <MISSING>
+        req-body
+            Padding: 0
+            kdc-options: 50000010
+                0... .... = reserved: False
+                .1.. .... = forwardable: True
+                ..0. .... = forwarded: False
+                ...1 .... = proxiable: True
+                .... 0... = proxy: False
+                .... .0.. = allow-postdate: False
+                .... ..0. = postdated: False
+                .... ...0 = unused7: False
+                0... .... = renewable: False
+                .0.. .... = unused9: False
+                ..0. .... = unused10: False
+                ...0 .... = opt-hardware-auth: False
+                .... 0... = unused12: False
+                .... .0.. = unused13: False
+                .... ..0. = constrained-delegation: False
+                .... ...0 = canonicalize: False
+                0... .... = request-anonymous: False
+                .0.. .... = unused17: False
+                    </code></pre>
+                </div>
+                <div style="grid-area: right">
+                    <pre style="font-size: 0.8ex;"><code style="max-height: 800px" class="language-plaintext">
+                ..0. .... = unused18: False
+                ...0 .... = unused19: False
+                .... 0... = unused20: False
+                .... .0.. = unused21: False
+                .... ..0. = unused22: False
+                .... ...0 = unused23: False
+                0... .... = unused24: False
+                .0.. .... = unused25: False
+                ..0. .... = disable-transited-check: False
+                ...1 .... = renewable-ok: True
+                .... 0... = enc-tkt-in-skey: False
+                .... .0.. = unused29: False
+                .... ..0. = renew: False
+                .... ...0 = validate: False
+            cname
+                name-type: kRB5-NT-PRINCIPAL (1)
+                cname-string: 1 item
+                    CNameString: fred
+            realm: SIGUSR.NET
+            sname
+                name-type: kRB5-NT-SRV-INST (2)
+                sname-string: 2 items
+                    SNameString: krbtgt
+                    SNameString: SIGUSR.NET
+            till: 2024-03-06 08:04:43 (UTC)
+            nonce: 658968847
+            etype: 8 items
+                ENCTYPE: eTYPE-AES256-CTS-HMAC-SHA1-96 (18)
+                ENCTYPE: eTYPE-AES128-CTS-HMAC-SHA1-96 (17)
+                ENCTYPE: eTYPE-AES256-CTS-HMAC-SHA384-192 (20)
+                ENCTYPE: eTYPE-AES128-CTS-HMAC-SHA256-128 (19)
+                ENCTYPE: eTYPE-DES3-CBC-SHA1 (16)
+                ENCTYPE: eTYPE-ARCFOUR-HMAC-MD5 (23)
+                ENCTYPE: eTYPE-CAMELLIA128-CTS-CMAC (25)
+                ENCTYPE: eTYPE-CAMELLIA256-CTS-CMAC (26)
+                    </code></pre>
+                </div>
+            </div>
+        </section>
+
+
 <!--        <section>-->
 <!--            <h2>Test Code</h2>-->
 <!--            <pre class="fragment" style="font-size: 1.1ex; margin-top: 5em"><code class="C#" style="max-height: 800px">-->
