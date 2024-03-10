@@ -169,7 +169,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.95875065"
-     inkscape:cx="910.56001"
+     inkscape:cx="205.47574"
      inkscape:cy="324.902"
      inkscape:window-width="1920"
      inkscape:window-height="1172"
@@ -178,32 +178,8 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="g877"
      inkscape:snap-text-baseline="false" />
-  <text
-     xml:space="preserve"
-     id="text4606"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4608);fill:#000000;fill-opacity:1;stroke:none" />
-  <text
-     xml:space="preserve"
-     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal'"
-     x="557.42871"
-     y="233.29167"
-     id="text25386"><tspan
-       sodipodi:role="line"
-       id="tspan25388"
-       x="557.42871"
-       y="233.29167" /></text>
   <g
      id="g877">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none"
-       x="110.69843"
-       y="200.54001"
-       id="text6088"><tspan
-         sodipodi:role="line"
-         id="tspan6086"
-         x="110.69843"
-         y="200.54001">Texte clair</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none"
@@ -219,30 +195,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none"
        x="110.69846"
        y="542.23395"
-       id="text6088-4"><tspan
-         sodipodi:role="line"
-         id="tspan6086-3"
-         x="110.69846"
-         y="542.23395">Texte clair</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none"
-       x="110.69846"
-       y="542.23395"
        id="text9034"><tspan
          sodipodi:role="line"
          id="tspan9032"
          x="110.69846"
          y="542.23395">Texte clair</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#cb4b16;fill-opacity:1"
-       x="563.15692"
-       y="482.79568"
-       id="text9046"><tspan
-         sodipodi:role="line"
-         id="tspan9044"
-         x="563.15692"
-         y="482.79568" /></text>
   </g>
 </svg>

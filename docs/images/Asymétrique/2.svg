@@ -169,7 +169,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.95875065"
-     inkscape:cx="910.56001"
+     inkscape:cx="443.28523"
      inkscape:cy="324.902"
      inkscape:window-width="1920"
      inkscape:window-height="1172"
@@ -178,20 +178,6 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="g877"
      inkscape:snap-text-baseline="false" />
-  <text
-     xml:space="preserve"
-     id="text4606"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4608);fill:#000000;fill-opacity:1;stroke:none" />
-  <text
-     xml:space="preserve"
-     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal'"
-     x="557.42871"
-     y="233.29167"
-     id="text25386"><tspan
-       sodipodi:role="line"
-       id="tspan25388"
-       x="557.42871"
-       y="233.29167" /></text>
   <g
      id="g877">
     <text
@@ -204,40 +190,10 @@
          id="tspan6086"
          x="110.69843"
          y="200.54001">Texte clair</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
-       x="896.26227"
-       y="198.72"
-       id="text28034"><tspan
-         sodipodi:role="line"
-         id="tspan28032"
-         x="896.26227"
-         y="198.72">@ö$#z!A...</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3.17825;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
        d="M 219.56645,169.75132 V 131.64403 H 994.00831 V 168.209"
        id="path41199" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#cb4b16;fill-opacity:1"
-       x="563.15698"
-       y="109.10175"
-       id="text43584"><tspan
-         sodipodi:role="line"
-         id="tspan43582"
-         x="563.15698"
-         y="109.10175">Kpri</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none"
-       x="110.69843"
-       y="200.54001"
-       id="text9014"><tspan
-         sodipodi:role="line"
-         id="tspan9012"
-         x="110.69843"
-         y="200.54001">Texte clair</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
@@ -248,10 +204,6 @@
          id="tspan9016"
          x="896.26227"
          y="198.72">@ö$#z!A...</tspan></text>
-    <path
-       style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3.17825;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-       d="M 219.56645,169.75132 V 131.64403 H 994.00831 V 168.209"
-       id="path9020" />
     <text
        xml:space="preserve"
        style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#cb4b16;fill-opacity:1"
@@ -261,31 +213,9 @@
          sodipodi:role="line"
          id="tspan9024"
          x="563.15698"
-         y="109.10175">Kpri</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none"
-       x="110.69846"
-       y="542.23395"
-       id="text6088-4"><tspan
-         sodipodi:role="line"
-         id="tspan6086-3"
-         x="110.69846"
-         y="542.23395">Texte clair</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
-       x="896.26221"
-       y="540.41394"
-       id="text28034-0"><tspan
-         sodipodi:role="line"
-         id="tspan28032-3"
-         x="896.26221"
-         y="540.41394">@ö$#z!A...</tspan></text>
-    <path
-       style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3.17825;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-9)"
-       d="m 219.56645,511.44526 v -38.10729 h 774.44182 v 36.56497"
-       id="path41199-0" />
+         y="109.10175">K<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan3140">priv</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#869900;fill-opacity:0.992157"
@@ -295,7 +225,9 @@
          sodipodi:role="line"
          id="tspan43582-5"
          x="563.15692"
-         y="450.79568">Kpub</tspan></text>
+         y="450.79568">K<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan5488">pub</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none"
@@ -320,15 +252,5 @@
        style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3.17825;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-9)"
        d="m 219.56645,511.44526 v -38.10729 h 774.44182 v 36.56497"
        id="path9040" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#cb4b16;fill-opacity:1"
-       x="563.15692"
-       y="482.79568"
-       id="text9046"><tspan
-         sodipodi:role="line"
-         id="tspan9044"
-         x="563.15692"
-         y="482.79568" /></text>
   </g>
 </svg>
