@@ -86,7 +86,7 @@
             font-weight: 400;
             font-stretch: normal;
             font-style: normal;
-            src: url('WOFF2/Iosevka-Regular.woff2') format('woff2');
+            src: url('/dist/theme/fonts/Iosevka/WOFF2/Iosevka-Regular.woff2') format('woff2');
         }
 
         @font-face {
@@ -95,7 +95,7 @@
             font-weight: 400;
             font-stretch: normal;
             font-style: italic;
-            src: url('WOFF2/Iosevka-Italic.woff2') format('woff2');
+            src: url('/dist/theme/fonts/Iosevka/WOFF2/Iosevka-Italic.woff2') format('woff2');
         }
 
         @font-face {
@@ -104,7 +104,7 @@
             font-weight: 700;
             font-stretch: normal;
             font-style: normal;
-            src: url('WOFF2/Iosevka-Bold.woff2') format('woff2');
+            src: url('/dist/theme/fonts/Iosevka/WOFF2/Iosevka-Bold.woff2') format('woff2');
         }
 
         @font-face {
@@ -113,7 +113,7 @@
             font-weight: 700;
             font-stretch: normal;
             font-style: italic;
-            src: url('WOFF2/Iosevka-BoldItalic.woff2') format('woff2');
+            src: url('/dist/theme/fonts/Iosevka/WOFF2/Iosevka-BoldItalic.woff2') format('woff2');
         }
     </style>
   <sodipodi:namedview

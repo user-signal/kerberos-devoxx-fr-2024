@@ -441,11 +441,10 @@ html * {
   width: 98%;
   font-size: 0.4em;
   border: none;
-  color: #fdf6e3;
-  background: #002b36;
 }
 
 .reveal pre code {
+  color: #fdf6e3;
   background-color: #002b36;
   max-height: 800px;
 }

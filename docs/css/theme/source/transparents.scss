@@ -132,11 +132,10 @@ $codeFont: Iosevka;
   width: 98%;
   font-size: 0.40em;
   border: none;
-  color: $base3;
-  background: $base03;
 }
 
 .reveal pre code {
+  color: $base3;
   background-color: $base03;
   max-height: 800px;
 }
