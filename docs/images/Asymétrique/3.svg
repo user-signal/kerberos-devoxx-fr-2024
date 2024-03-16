@@ -202,11 +202,11 @@
          x="896.26227"
          y="198.72">@ö$#z!A...</tspan></text>
     <path
-       style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3.17825;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
        d="M 219.56645,169.75132 V 131.64403 H 994.00831 V 168.209"
        id="path41199" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3.17825;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-4)"
+       style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-4)"
        d="m 993.71973,206.34829 v 38.10729 H 219.27782 v -36.56497"
        id="path41199-8" />
     <text
@@ -219,8 +219,8 @@
          id="tspan43582"
          x="563.15698"
          y="109.10175">K<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan9204">priv</tspan></tspan></text>
+   style="font-size:24px"
+   id="tspan4447">priv</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#859900;fill-opacity:1"
@@ -231,8 +231,8 @@
          id="tspan43582-7"
          x="562.77704"
          y="288.69031">K<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan14306">pub</tspan></tspan></text>
+   style="font-size:24px"
+   id="tspan7881">pub</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#869900;fill-opacity:0.992157"
@@ -243,8 +243,8 @@
          id="tspan43582-5"
          x="563.15692"
          y="450.79568">K<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan16792">pub</tspan></tspan></text>
+   style="font-size:24px"
+   id="tspan11573">pub</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#cb4b16;fill-opacity:1"
@@ -255,8 +255,8 @@
          id="tspan43582-7-0"
          x="562.77692"
          y="630.38428">K<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan19944">priv</tspan></tspan></text>
+   style="font-size:24px"
+   id="tspan14521">priv</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none"
@@ -278,11 +278,11 @@
          x="896.26221"
          y="540.41394">@ö$#z!A...</tspan></text>
     <path
-       style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3.17825;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-9)"
+       style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-9)"
        d="m 219.56645,511.44526 v -38.10729 h 774.44182 v 36.56497"
        id="path9040" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3.17825;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-4-7)"
+       style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-4-7)"
        d="m 993.71977,548.04223 v 38.10729 H 219.27782 v -36.56497"
        id="path9042" />
   </g>
