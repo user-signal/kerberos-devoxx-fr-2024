@@ -8,28 +8,13 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="4.svg"
+   sodipodi:docname="10a.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs5">
-    <marker
-       style="overflow:visible;"
-       id="Arrow1Mend"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path999" />
-    </marker>
-  </defs>
+     id="defs5" />
   <style
      id="style2">
         @font-face {
@@ -78,9 +63,9 @@
      inkscape:pagecheckerboard="false"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="1.9175014"
-     inkscape:cx="556.71407"
-     inkscape:cy="257.36617"
+     inkscape:zoom="3.8350027"
+     inkscape:cx="157.36625"
+     inkscape:cy="340.41697"
      inkscape:window-width="1920"
      inkscape:window-height="1172"
      inkscape:window-x="0"
@@ -119,7 +104,7 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke:none"
+     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
      x="126.65552"
      y="301.336"
      id="text2107"><tspan
@@ -137,7 +122,7 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:0.999998;stroke:none"
+     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:0.999998"
      x="1042.2975"
      y="224.88901"
      id="text7127"><tspan
@@ -145,7 +130,7 @@
        id="tspan7125"
        x="1042.2975"
        y="224.88901"
-       style="stroke-width:0.999998;stroke:none">AS</tspan></text>
+       style="stroke-width:0.999998">AS</tspan></text>
   <g
      id="g977-0"
      transform="matrix(0.99218752,0,0,0.99218752,421.90478,331.1158)">
@@ -156,7 +141,7 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke:none"
+     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
      x="1030.0175"
      y="444.98901"
      id="text7127-8"><tspan
@@ -166,7 +151,7 @@
        y="444.98901">TGS</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke:none"
+     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
      x="1051.7373"
      y="664.90002"
      id="text9429"><tspan
@@ -174,79 +159,28 @@
        id="tspan9427"
        x="1051.7373"
        y="664.90002">B</tspan></text>
-  <path
-     style="fill:none;stroke:#657b83;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
-     d="M 137.5,260 V 100 h 860"
-     id="path872" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-     x="509.92834"
-     y="154.09521"
-     id="text8602"><tspan
+     style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#cb4b16;fill-opacity:1"
+     x="98.608002"
+     y="417.832"
+     id="text4889"><tspan
        sodipodi:role="line"
-       id="tspan8600"
-       x="509.92834"
-       y="154.09521">fred@SIGUSR.NET</tspan></text>
+       id="tspan4887"
+       x="98.608002"
+       y="417.832">TGT</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-     x="539.90424"
-     y="253.02441"
-     id="text23706"><tspan
+     style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#6c71c4;fill-opacity:1"
+     x="98.704002"
+     y="442.832"
+     id="text4889-6"><tspan
        sodipodi:role="line"
-       x="539.90424"
-       y="253.02441"
-       id="tspan23708">horodatage</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-     x="497.73639"
-     y="202.31599"
-     id="text25298"><tspan
-       sodipodi:role="line"
-       id="tspan25296"
-       x="497.73639"
-       y="202.31599"><tspan
-   style="fill:#d33682;fill-opacity:1"
-   id="tspan5313">krbtgt</tspan>@SIGUSR.NET</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-     x="552.14417"
-     y="302.82233"
-     id="text27480"><tspan
-       sodipodi:role="line"
-       id="tspan27478"
-       x="552.14417"
-       y="302.82233">validité</tspan></text>
-  <rect
-     style="opacity:0.995768;fill:none;fill-opacity:1;stroke:#657b83;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect18756"
-     width="260"
-     height="200"
-     x="470"
-     y="120" />
-  <path
-     style="fill:none;stroke:#657b83;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 470,170 H 730"
-     id="path18915" />
-  <path
-     style="fill:none;stroke:#657b83;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 470,219.1 H 730"
-     id="path18915-8" />
-  <path
-     style="fill:none;stroke:#657b83;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 470,270 H 730"
-     id="path18915-6" />
-  <text
-     xml:space="preserve"
-     style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
-     x="564.1441"
-     y="84.5"
-     id="text23677"><tspan
-       sodipodi:role="line"
-       id="tspan23675"
-       x="564.1441"
-       y="84.5">AS_REQ</tspan></text>
+       id="tspan4887-0"
+       x="98.704002"
+       y="442.832"><tspan
+         style="font-size:16px"
+         id="tspan2542"><tspan
+   style="font-size:24px"
+   id="tspan2708">ST</tspan>B</tspan></tspan></text>
 </svg>

@@ -79,8 +79,8 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="1.9175014"
-     inkscape:cx="758.53923"
-     inkscape:cy="257.36618"
+     inkscape:cx="588.00479"
+     inkscape:cy="257.36617"
      inkscape:window-width="1920"
      inkscape:window-height="1172"
      inkscape:window-x="0"
@@ -178,69 +178,65 @@
      style="fill:none;stroke:#657b83;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
      d="M 137.5,260 V 100 h 860"
      id="path872" />
-  <g
-     id="g22397"
-     transform="translate(-70)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-       x="579.92834"
-       y="154.09521"
-       id="text8602"><tspan
-         sodipodi:role="line"
-         id="tspan8600"
-         x="579.92834"
-         y="154.09521">fred@SIGUSR.NET</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-       x="615.83221"
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
+     x="509.92834"
+     y="154.09521"
+     id="text8602"><tspan
+       sodipodi:role="line"
+       id="tspan8600"
+       x="509.92834"
+       y="154.09521">fred@SIGUSR.NET</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
+     x="539.90424"
+     y="253.02441"
+     id="text23706"><tspan
+       sodipodi:role="line"
+       x="539.90424"
        y="253.02441"
-       id="text23706"><tspan
-         sodipodi:role="line"
-         x="615.83221"
-         y="253.02441"
-         id="tspan23708">timestamp</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-       x="567.73639"
-       y="202.31599"
-       id="text25298"><tspan
-         sodipodi:role="line"
-         id="tspan25296"
-         x="567.73639"
-         y="202.31599">krbtgt@SIGUSR.NET</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-       x="621.77216"
-       y="302.82233"
-       id="text27480"><tspan
-         sodipodi:role="line"
-         id="tspan27478"
-         x="621.77216"
-         y="302.82233">lifetime</tspan></text>
-    <rect
-       style="opacity:0.995768;fill:none;fill-opacity:1;stroke:#657b83;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect18756"
-       width="260"
-       height="200"
-       x="540"
-       y="120" />
-    <path
-       style="fill:none;stroke:#657b83;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 540,170 H 800"
-       id="path18915" />
-    <path
-       style="fill:none;stroke:#657b83;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 540,219.1 H 800"
-       id="path18915-8" />
-    <path
-       style="fill:none;stroke:#657b83;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 540,270 H 800"
-       id="path18915-6" />
-  </g>
+       id="tspan23708">horodatage</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
+     x="497.73639"
+     y="202.31599"
+     id="text25298"><tspan
+       sodipodi:role="line"
+       id="tspan25296"
+       x="497.73639"
+       y="202.31599">krbtgt@SIGUSR.NET</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
+     x="552.14417"
+     y="302.82233"
+     id="text27480"><tspan
+       sodipodi:role="line"
+       id="tspan27478"
+       x="552.14417"
+       y="302.82233">validité</tspan></text>
+  <rect
+     style="opacity:0.995768;fill:none;fill-opacity:1;stroke:#657b83;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect18756"
+     width="260"
+     height="200"
+     x="470"
+     y="120" />
+  <path
+     style="fill:none;stroke:#657b83;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 470,170 H 730"
+     id="path18915" />
+  <path
+     style="fill:none;stroke:#657b83;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 470,219.1 H 730"
+     id="path18915-8" />
+  <path
+     style="fill:none;stroke:#657b83;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 470,270 H 730"
+     id="path18915-6" />
   <text
      xml:space="preserve"
      style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
