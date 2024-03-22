@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="6a.svg"
+   sodipodi:docname="6c.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -92,9 +92,9 @@
      inkscape:pagecheckerboard="false"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="1.9175014"
-     inkscape:cx="359.58253"
-     inkscape:cy="455.54074"
+     inkscape:zoom="2.7117565"
+     inkscape:cx="857.93101"
+     inkscape:cy="455.23999"
      inkscape:window-width="1920"
      inkscape:window-height="1172"
      inkscape:window-x="0"
@@ -375,7 +375,7 @@
      d="M 450,300 Z"
      id="path929" />
   <path
-     style="fill:none;stroke:#b58900;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:3,3;marker-end:url(#Arrow1Mend);stroke-dashoffset:0"
-     d="M 465,295 185,350"
-     id="path931" />
+     style="fill:none;stroke:#cb4b16;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:3,3;marker-end:url(#Arrow1Mend);stroke-dashoffset:0"
+     d="M 735,600 1015,325"
+     id="path964" />
 </svg>

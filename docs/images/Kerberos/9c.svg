@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="10.svg"
+   sodipodi:docname="9c.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -92,9 +92,9 @@
      inkscape:pagecheckerboard="false"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.95875067"
-     inkscape:cx="271.70776"
-     inkscape:cy="433.37649"
+     inkscape:zoom="1.9175013"
+     inkscape:cx="747.5875"
+     inkscape:cy="368.96976"
      inkscape:window-width="1920"
      inkscape:window-height="1172"
      inkscape:window-x="0"
@@ -189,12 +189,12 @@
        x="1051.7373"
        y="664.90002">B</tspan></text>
   <path
-     style="fill:none;stroke:#657b83;stroke-width:2.70801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
-     d="M 190,350 H 410"
+     style="fill:none;stroke:#657b83;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#Arrow1Mstart)"
+     d="M 190,350 H 460"
      id="path15909" />
   <path
-     style="fill:none;stroke:#657b83;stroke-width:2.70801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 790,350 h 220"
+     style="fill:none;stroke:#657b83;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:"
+     d="m 740,350 h 270"
      id="path15911" />
   <text
      xml:space="preserve"
@@ -266,12 +266,12 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-     x="509.92834"
+     x="509.92831"
      y="335.14069"
      id="text8602"><tspan
        sodipodi:role="line"
        id="tspan8600"
-       x="509.92834"
+       x="509.92831"
        y="335.14069">fred@SIGUSR.NET</tspan></text>
   <text
      xml:space="preserve"
@@ -386,34 +386,8 @@
      style="opacity:0.995768;fill:#6c71c4;fill-opacity:0.313725;stroke:none;stroke-width:0.737529;stroke-linejoin:round;stroke-opacity:1"
      d="m 604.95847,579.88247 v -2.02821 h 1.21692 c 1.4821,0 2.10196,0.55932 2.10196,1.89667 0,1.14589 -1.16374,2.15975 -2.47902,2.15975 -0.77217,0 -0.83986,-0.16347 -0.83986,-2.02821 z"
      id="path1214" />
-  <g
-     id="g906"
-     transform="matrix(0.99987076,0,0,0.99625276,0.06053574,-20.575157)"
-     style="stroke:#6c71c4;stroke-opacity:1">
-    <path
-       style="fill:none;stroke:#6c71c4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 465,325.2 h -50 v 300 h 50"
-       id="path951-4" />
-  </g>
-  <g
-     id="g906-4"
-     transform="matrix(-0.99987076,0,0,0.99625276,1200.4469,-20.575145)"
-     style="stroke:#6c71c4;stroke-opacity:1">
-    <path
-       style="fill:none;stroke:#6c71c4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 465,325.2 h -50 v 300 h 50"
-       id="path951-4-7" />
-  </g>
-  <text
-     xml:space="preserve"
-     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#6c71c4;fill-opacity:0.996078"
-     x="342"
-     y="467.54416"
-     id="text4221"><tspan
-       sodipodi:role="line"
-       id="tspan4219"
-       x="342"
-       y="467.54416">ST<tspan
-   style="font-size:24px"
-   id="tspan2440">B</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#6c71c4;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3,3;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+     d="m 740,580 h 275"
+     id="path1177" />
 </svg>

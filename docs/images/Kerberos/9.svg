@@ -92,9 +92,9 @@
      inkscape:pagecheckerboard="false"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="2.7117564"
-     inkscape:cx="566.23818"
-     inkscape:cy="433.11413"
+     inkscape:zoom="1.9175013"
+     inkscape:cx="566.1013"
+     inkscape:cy="494.13264"
      inkscape:window-width="1920"
      inkscape:window-height="1172"
      inkscape:window-x="0"
@@ -198,15 +198,15 @@
      id="path15911" />
   <text
      xml:space="preserve"
-     style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-     x="565.4881"
+     style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#268bd2;fill-opacity:1;stroke:none;stroke-opacity:1"
+     x="573.42407"
      y="231.02441"
      id="text23706"><tspan
        sodipodi:role="line"
-       x="565.4881"
+       x="573.42407"
        y="231.02441"
        id="tspan23708">K<tspan
-   style="font-size:16px"
+   style="font-size:16px;fill:#268bd2;fill-opacity:1"
    id="tspan5867">A&lt;-&gt;B</tspan></tspan></text>
   <text
      xml:space="preserve"
@@ -223,12 +223,12 @@
   <text
      xml:space="preserve"
      style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-     x="519.99225"
+     x="527.92822"
      y="130.31599"
      id="text25298"><tspan
        sodipodi:role="line"
        id="tspan25296"
-       x="519.99225"
+       x="527.92822"
        y="130.31599">b@SIGUSR.NET</tspan></text>
   <text
      xml:space="preserve"
@@ -266,24 +266,24 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-     x="509.92834"
+     x="509.92831"
      y="335.14069"
      id="text8602"><tspan
        sodipodi:role="line"
        id="tspan8600"
-       x="509.92834"
+       x="509.92831"
        y="335.14069">fred@SIGUSR.NET</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-     x="565.4881"
+     style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#268bd2;fill-opacity:1;stroke:none;stroke-opacity:1"
+     x="573.42407"
      y="434.12442"
      id="text23706-9"><tspan
        sodipodi:role="line"
-       x="565.4881"
+       x="573.42407"
        y="434.12442"
        id="tspan23708-2">K<tspan
-   style="font-size:16px"
+   style="font-size:16px;fill:#268bd2;fill-opacity:1"
    id="tspan5867-5">A&lt;-&gt;B</tspan></tspan></text>
   <text
      xml:space="preserve"
@@ -349,12 +349,12 @@
   <text
      xml:space="preserve"
      style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
-     x="539.90417"
+     x="539.90424"
      y="485.10001"
      id="text30909"><tspan
        sodipodi:role="line"
        id="tspan30907"
-       x="539.90417"
+       x="539.90424"
        y="485.10001">horodatage</tspan></text>
   <g
      id="g847"
