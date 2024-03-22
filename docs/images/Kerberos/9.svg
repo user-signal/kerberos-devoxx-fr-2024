@@ -92,9 +92,9 @@
      inkscape:pagecheckerboard="false"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="1.9175013"
-     inkscape:cx="566.1013"
-     inkscape:cy="494.13264"
+     inkscape:zoom="0.95875065"
+     inkscape:cx="566.88358"
+     inkscape:cy="493.87189"
      inkscape:window-width="1920"
      inkscape:window-height="1172"
      inkscape:window-x="0"
@@ -386,4 +386,18 @@
      style="opacity:0.995768;fill:#6c71c4;fill-opacity:0.313725;stroke:none;stroke-width:0.737529;stroke-linejoin:round;stroke-opacity:1"
      d="m 604.95847,579.88247 v -2.02821 h 1.21692 c 1.4821,0 2.10196,0.55932 2.10196,1.89667 0,1.14589 -1.16374,2.15975 -2.47902,2.15975 -0.77217,0 -0.83986,-0.16347 -0.83986,-2.02821 z"
      id="path1214" />
+  <g
+     id="g868"
+     transform="translate(-284.21999,255)">
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
+       x="564.1441"
+       y="84.5"
+       id="text23677"><tspan
+         sodipodi:role="line"
+         x="564.1441"
+         y="84.5"
+         id="tspan1800">TGS_REP</tspan></text>
+  </g>
 </svg>

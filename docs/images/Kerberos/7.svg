@@ -306,4 +306,18 @@
          x="100"
          y="420">TGT</tspan></text>
   </g>
+  <g
+     id="g868"
+     transform="translate(-281.16797,255)">
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
+       x="564.1441"
+       y="84.5"
+       id="text23677"><tspan
+         sodipodi:role="line"
+         id="tspan23675"
+         x="564.1441"
+         y="84.5">TGS_REQ</tspan></text>
+  </g>
 </svg>
