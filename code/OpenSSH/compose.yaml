@@ -1,0 +1,28 @@
+services:
+  # KDC:
+  #   image: ubuntu:22.04
+  #   networks:
+  #     - sigusr.net
+
+  B:
+    build:
+      context: ./openssh
+    image: openssh
+    hostname: B
+    domainname: B.sigusr.net
+    networks:
+      - sigusr.net
+
+  A:
+    build:
+      context: ./client
+    image: client
+    hostname: A
+    domainname: A.sigusr.net
+    tty: true
+    networks:
+      - sigusr.net
+
+networks:
+  sigusr.net:
+    name: sigusr.net
