@@ -1,8 +1,12 @@
 services:
-  # KDC:
-  #   image: ubuntu:22.04
-  #   networks:
-  #     - sigusr.net
+  KDC:
+    build:
+      context: ./kerberos
+    image: kerberos
+    hostname: KDC
+    domainname: KDC.sigusr.net
+    networks:
+      - sigusr.net
 
   B:
     build:
