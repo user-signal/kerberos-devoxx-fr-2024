@@ -16,6 +16,8 @@ services:
     domainname: B.sigusr.net
     networks:
       - sigusr.net
+    depends_on:
+      - KDC
 
   A:
     build:
@@ -26,6 +28,8 @@ services:
     tty: true
     networks:
       - sigusr.net
+    depends_on:
+      - KDC
 
 networks:
   sigusr.net:
