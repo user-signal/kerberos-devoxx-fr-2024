@@ -8,5 +8,5 @@ RUN kadmin.local -q "addprinc -randkey host/b.sigusr.net@SIGUSR.NET"
 RUN kadmin.local -q "addprinc -pw fred fred@SIGUSR.NET"
 RUN kadmin.local -q "ktadd -k /etc/openssh.keytab host/b.sigusr.net@SIGUSR.NET"
 
-CMD ["krb5kdc", "-n"]
+CMD ["bash", "-c", "cp /etc/openssh.keytab /etc/keytabs && krb5kdc -n"]
 

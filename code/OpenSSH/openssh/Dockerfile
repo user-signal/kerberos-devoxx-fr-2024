@@ -10,4 +10,4 @@ RUN mkdir /run/sshd
 RUN useradd -mg users fred
 RUN echo fred@SIGUSR.NET > /home/fred/.k5login
 
-CMD ["/usr/sbin/sshd", "-D", "-e"]
+CMD ["bash", "-c", "cp /etc/keytabs/openssh.keytab /etc/krb5.keytab && /usr/sbin/sshd -D -e"]

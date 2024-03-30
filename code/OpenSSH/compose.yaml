@@ -7,6 +7,10 @@ services:
     domainname: KDC.sigusr.net
     networks:
       - sigusr.net
+    volumes:
+      - type: volume
+        source: keytabs
+        target: /etc/keytabs
 
   B:
     build:
@@ -18,7 +22,11 @@ services:
       - sigusr.net
     depends_on:
       - KDC
-
+    volumes:
+      - type: volume
+        source: keytabs
+        target: /etc/keytabs
+        
   A:
     build:
       context: ./client
@@ -34,3 +42,6 @@ services:
 networks:
   sigusr.net:
     name: sigusr.net
+
+volumes:
+  keytabs:
