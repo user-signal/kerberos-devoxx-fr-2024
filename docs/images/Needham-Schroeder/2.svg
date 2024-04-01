@@ -79,7 +79,7 @@
   </sodipodi:namedview>
   <g
      id="g966"
-     transform="matrix(0.99218749,0,0,0.99218749,56.60349,347.38987)">
+     transform="matrix(1.0417969,0,0,1.0417969,29.403653,347.28889)">
     <rect
        class="st0"
        height="48.593925"
@@ -96,7 +96,7 @@
   </g>
   <g
      id="g977"
-     transform="matrix(0.99218752,0,0,0.99218752,423.9048,141.1158)">
+     transform="matrix(1.0417969,0,0,1.0417969,415.07003,130.70112)">
     <path
        d="m 605.38206,-81.387315 v 22.677163 7.559054 15.118108 7.559055 15.118108 7.5590547 75.5905453 h 75.59055 v -75.5905453 -7.5590547 -15.118108 -7.559055 -15.118108 -7.559054 -22.677163 z m 7.55905,7.559054 h 60.47244 v 15.118109 h -60.47244 z m 0,22.677163 h 60.47244 v 15.118108 h -60.47244 z m 0,22.677163 h 60.47244 v 15.118108 h -60.47244 z m 0,22.6771627 h 60.47244 V 62.234719 h -60.47244 z m 45.35433,7.5590543 v 7.5590544 h 7.55905 V 1.762282 Z"
        style="fill:#657b83;fill-opacity:1;stroke:none;stroke-width:0px"
@@ -104,7 +104,7 @@
   </g>
   <g
      id="g977-4"
-     transform="matrix(0.99218752,0,0,0.99218752,423.9048,569.20607)">
+     transform="matrix(1.0417969,0,0,1.0417969,415.07003,580.1959)">
     <path
        d="m 605.38206,-81.387315 v 22.677163 7.559054 15.118108 7.559055 15.118108 7.5590547 75.5905453 h 75.59055 v -75.5905453 -7.5590547 -15.118108 -7.559055 -15.118108 -7.559054 -22.677163 z m 7.55905,7.559054 h 60.47244 v 15.118109 h -60.47244 z m 0,22.677163 h 60.47244 v 15.118108 h -60.47244 z m 0,22.677163 h 60.47244 v 15.118108 h -60.47244 z m 0,22.6771627 h 60.47244 V 62.234719 h -60.47244 z m 45.35433,7.5590543 v 7.5590544 h 7.55905 V 1.762282 Z"
        style="fill:#657b83;fill-opacity:1;stroke:none;stroke-width:0px"
@@ -112,61 +112,66 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
-     x="126.65552"
-     y="297.53552"
+     style="font-size:42px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:1.05"
+     x="102.95828"
+     y="294.94183"
      id="text2107"><tspan
        sodipodi:role="line"
        id="tspan2105"
-       x="126.65552"
-       y="297.53552">A</tspan></text>
+       x="102.95828"
+       y="294.94183"
+       style="stroke-width:1.05">A</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
-     x="1052.0973"
-     y="256.08923"
+     style="font-size:42px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:1.05"
+     x="1074.6721"
+     y="251.42322"
      id="text7127"><tspan
        sodipodi:role="line"
        id="tspan7125"
-       x="1052.0973"
-       y="256.08923">S</tspan></text>
+       x="1074.6721"
+       y="251.42322"
+       style="stroke-width:1.05">S</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
-     x="1051.7373"
-     y="474"
+     style="font-size:42px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:1.05"
+     x="1074.2942"
+     y="480.22952"
      id="text9429"><tspan
        sodipodi:role="line"
        id="tspan9427"
-       x="1051.7373"
-       y="474">B</tspan></text>
+       x="1074.2942"
+       y="480.22952"
+       style="stroke-width:1.05">B</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
-     x="39.161392"
-     y="360.30072"
+     style="font-size:42px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:1.05"
+     x="11.089451"
+     y="360.84528"
      id="text12510"><tspan
        sodipodi:role="line"
        id="tspan12508"
-       x="39.161392"
-       y="360.30072">K<tspan
-   style="font-size:24px"
+       x="11.089451"
+       y="360.84528"
+       style="stroke-width:1.05">K<tspan
+   style="font-size:25.2px;stroke-width:1.05"
    id="tspan27857">A</tspan></tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
-     x="1126.8761"
-     y="574.0506"
+     style="font-size:42px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:1.05"
+     x="1153.1899"
+     y="585.28265"
      id="text13704"><tspan
        sodipodi:role="line"
        id="tspan13702"
-       x="1126.8761"
-       y="574.0506">K<tspan
-   style="font-size:24px"
+       x="1153.1899"
+       y="585.28265"
+       style="stroke-width:1.05">K<tspan
+   style="font-size:25.2px;stroke-width:1.05"
    id="tspan9821">B</tspan></tspan></text>
   <g
      id="g30675"
-     transform="translate(0,7.1500821)">
+     transform="matrix(1.05,0,0,1.05,-30.030011,-9.9628864)">
     <g
        id="g30666">
       <text

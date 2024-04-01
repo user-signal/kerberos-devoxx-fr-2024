@@ -79,7 +79,7 @@
   </sodipodi:namedview>
   <g
      id="g966"
-     transform="matrix(0.99218749,0,0,0.99218749,56.60349,347.38987)">
+     transform="matrix(1.0417969,0,0,1.0417969,29.465843,347.37775)">
     <rect
        class="st0"
        height="48.593925"
@@ -96,7 +96,7 @@
   </g>
   <g
      id="g977-4"
-     transform="matrix(0.99218752,0,0,0.99218752,423.9048,551.20607)">
+     transform="matrix(1.0417969,0,0,1.0417969,415.13222,561.38476)">
     <path
        d="m 605.38206,-81.387315 v 22.677163 7.559054 15.118108 7.559055 15.118108 7.5590547 75.5905453 h 75.59055 v -75.5905453 -7.5590547 -15.118108 -7.559055 -15.118108 -7.559054 -22.677163 z m 7.55905,7.559054 h 60.47244 v 15.118109 h -60.47244 z m 0,22.677163 h 60.47244 v 15.118108 h -60.47244 z m 0,22.677163 h 60.47244 v 15.118108 h -60.47244 z m 0,22.6771627 h 60.47244 V 62.234719 h -60.47244 z m 45.35433,7.5590543 v 7.5590544 h 7.55905 V 1.762282 Z"
        style="fill:#657b83;fill-opacity:1;stroke:none;stroke-width:0px"
@@ -104,17 +104,18 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
-     x="126.65552"
-     y="301.336"
+     style="font-size:42px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:1.05"
+     x="103.02047"
+     y="299.02118"
      id="text2107"><tspan
        sodipodi:role="line"
        id="tspan2105"
-       x="126.65552"
-       y="301.336">A</tspan></text>
+       x="103.02047"
+       y="299.02118"
+       style="stroke-width:1.05">A</tspan></text>
   <g
      id="g977"
-     transform="matrix(0.99218752,0,0,0.99218752,423.9048,111.1158)">
+     transform="matrix(1.0417969,0,0,1.0417969,415.13222,99.289981)">
     <path
        d="m 605.38206,-81.387315 v 22.677163 7.559054 15.118108 7.559055 15.118108 7.5590547 75.5905453 h 75.59055 v -75.5905453 -7.5590547 -15.118108 -7.559055 -15.118108 -7.559054 -22.677163 z m 7.55905,7.559054 h 60.47244 v 15.118109 h -60.47244 z m 0,22.677163 h 60.47244 v 15.118108 h -60.47244 z m 0,22.677163 h 60.47244 v 15.118108 h -60.47244 z m 0,22.6771627 h 60.47244 V 62.234719 h -60.47244 z m 45.35433,7.5590543 v 7.5590544 h 7.55905 V 1.762282 Z"
        style="fill:#657b83;fill-opacity:1;stroke:none;stroke-width:0px"
@@ -122,18 +123,18 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:0.999998"
-     x="1042.2975"
-     y="224.88901"
+     style="font-size:42px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:1.05"
+     x="1064.4446"
+     y="218.75185"
      id="text7127"><tspan
        sodipodi:role="line"
        id="tspan7125"
-       x="1042.2975"
-       y="224.88901"
-       style="stroke-width:0.999998">AS</tspan></text>
+       x="1064.4446"
+       y="218.75185"
+       style="stroke-width:1.05">AS</tspan></text>
   <g
      id="g977-0"
-     transform="matrix(0.99218752,0,0,0.99218752,421.90478,331.1158)">
+     transform="matrix(1.0417969,0,0,1.0417969,413.0322,330.28998)">
     <path
        d="m 605.38206,-81.387315 v 22.677163 7.559054 15.118108 7.559055 15.118108 7.5590547 75.5905453 h 75.59055 v -75.5905453 -7.5590547 -15.118108 -7.559055 -15.118108 -7.559054 -22.677163 z m 7.55905,7.559054 h 60.47244 v 15.118109 h -60.47244 z m 0,22.677163 h 60.47244 v 15.118108 h -60.47244 z m 0,22.677163 h 60.47244 v 15.118108 h -60.47244 z m 0,22.6771627 h 60.47244 V 62.234719 h -60.47244 z m 45.35433,7.5590543 v 7.5590544 h 7.55905 V 1.762282 Z"
        style="fill:#657b83;fill-opacity:1;stroke:none;stroke-width:0px"
@@ -141,46 +142,50 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
-     x="1030.0175"
-     y="444.98901"
+     style="font-size:42px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:1.05"
+     x="1051.5505"
+     y="449.85684"
      id="text7127-8"><tspan
        sodipodi:role="line"
        id="tspan7125-8"
-       x="1030.0175"
-       y="444.98901">TGS</tspan></text>
+       x="1051.5505"
+       y="449.85684"
+       style="stroke-width:1.05">TGS</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
-     x="1051.7373"
-     y="664.90002"
+     style="font-size:42px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:1.05"
+     x="1074.3563"
+     y="680.76343"
      id="text9429"><tspan
        sodipodi:role="line"
        id="tspan9427"
-       x="1051.7373"
-       y="664.90002">B</tspan></text>
+       x="1074.3563"
+       y="680.76343"
+       style="stroke-width:1.05">B</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#cb4b16;fill-opacity:1"
-     x="98.608002"
-     y="417.832"
+     style="font-size:25.2px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#cb4b16;fill-opacity:1;stroke-width:1.05"
+     x="73.57058"
+     y="421.34198"
      id="text4889"><tspan
        sodipodi:role="line"
        id="tspan4887"
-       x="98.608002"
-       y="417.832">TGT</tspan></text>
+       x="73.57058"
+       y="421.34198"
+       style="stroke-width:1.05">TGT</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#6c71c4;fill-opacity:1"
-     x="98.704002"
-     y="442.832"
+     style="font-size:25.2px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#6c71c4;fill-opacity:1;stroke-width:1.05"
+     x="73.671379"
+     y="447.59198"
      id="text4889-6"><tspan
        sodipodi:role="line"
        id="tspan4887-0"
-       x="98.704002"
-       y="442.832"><tspan
-         style="font-size:16px"
+       x="73.671379"
+       y="447.59198"
+       style="stroke-width:1.05"><tspan
+         style="font-size:16.8px;stroke-width:1.05"
          id="tspan2542"><tspan
-   style="font-size:24px"
+   style="font-size:25.2px;stroke-width:1.05"
    id="tspan2708">ST</tspan>B</tspan></tspan></text>
 </svg>

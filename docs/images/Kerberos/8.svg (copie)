@@ -94,7 +94,7 @@
   </sodipodi:namedview>
   <g
      id="g966"
-     transform="matrix(1.041763,0,0,1.041763,29.484364,347.37775)">
+     transform="matrix(0.99215528,0,0,0.99215528,56.621129,347.38987)">
     <rect
        class="st0"
        height="48.593925"
@@ -111,7 +111,7 @@
   </g>
   <g
      id="g977-4"
-     transform="matrix(1.041763,0,0,1.041763,415.1382,561.37781)">
+     transform="matrix(0.99215528,0,0,0.99215528,423.9105,551.19945)">
     <path
        d="m 605.38206,-81.387315 v 22.677163 7.559054 15.118108 7.559055 15.118108 7.5590547 75.5905453 h 75.59055 v -75.5905453 -7.5590547 -15.118108 -7.559055 -15.118108 -7.559054 -22.677163 z m 7.55905,7.559054 h 60.47244 v 15.118109 h -60.47244 z m 0,22.677163 h 60.47244 v 15.118108 h -60.47244 z m 0,22.677163 h 60.47244 v 15.118108 h -60.47244 z m 0,22.6771627 h 60.47244 V 62.234719 h -60.47244 z m 45.35433,7.5590543 v 7.5590544 h 7.55905 V 1.762282 Z"
        style="fill:#657b83;fill-opacity:1;stroke:none;stroke-width:0px"
@@ -119,18 +119,18 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:41.9986px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:1.04997"
-     x="103.03661"
-     y="299.02277"
+     style="font-size:39.9987px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:0.999967"
+     x="126.67088"
+     y="301.33749"
      id="text2107"><tspan
        sodipodi:role="line"
        id="tspan2105"
-       x="103.03661"
-       y="299.02277"
-       style="stroke-width:1.04997">A</tspan></text>
+       x="126.67088"
+       y="301.33749"
+       style="stroke-width:0.999967">A</tspan></text>
   <g
      id="g977"
-     transform="matrix(1.041763,0,0,1.041763,415.1382,99.298056)">
+     transform="matrix(0.99215528,0,0,0.99215528,423.9105,111.12349)">
     <path
        d="m 605.38206,-81.387315 v 22.677163 7.559054 15.118108 7.559055 15.118108 7.5590547 75.5905453 h 75.59055 v -75.5905453 -7.5590547 -15.118108 -7.559055 -15.118108 -7.559054 -22.677163 z m 7.55905,7.559054 h 60.47244 v 15.118109 h -60.47244 z m 0,22.677163 h 60.47244 v 15.118108 h -60.47244 z m 0,22.677163 h 60.47244 v 15.118108 h -60.47244 z m 0,22.6771627 h 60.47244 V 62.234719 h -60.47244 z m 45.35433,7.5590543 v 7.5590544 h 7.55905 V 1.762282 Z"
        style="fill:#657b83;fill-opacity:1;stroke:none;stroke-width:0px"
@@ -138,18 +138,18 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:41.9986px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:1.04997"
-     x="1064.4294"
-     y="218.75603"
+     style="font-size:39.9987px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:0.999967"
+     x="1042.2831"
+     y="224.89299"
      id="text7127"><tspan
        sodipodi:role="line"
        id="tspan7125"
-       x="1064.4294"
-       y="218.75603"
-       style="stroke-width:1.04997">AS</tspan></text>
+       x="1042.2831"
+       y="224.89299"
+       style="stroke-width:0.999967">AS</tspan></text>
   <g
      id="g977-0"
-     transform="matrix(1.041763,0,0,1.041763,413.03826,330.29055)">
+     transform="matrix(0.99215528,0,0,0.99215528,421.91055,331.11634)">
     <path
        d="m 605.38206,-81.387315 v 22.677163 7.559054 15.118108 7.559055 15.118108 7.5590547 75.5905453 h 75.59055 v -75.5905453 -7.5590547 -15.118108 -7.559055 -15.118108 -7.559054 -22.677163 z m 7.55905,7.559054 h 60.47244 v 15.118109 h -60.47244 z m 0,22.677163 h 60.47244 v 15.118108 h -60.47244 z m 0,22.677163 h 60.47244 v 15.118108 h -60.47244 z m 0,22.6771627 h 60.47244 V 62.234719 h -60.47244 z m 45.35433,7.5590543 v 7.5590544 h 7.55905 V 1.762282 Z"
        style="fill:#657b83;fill-opacity:1;stroke:none;stroke-width:0px"
@@ -157,56 +157,56 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:41.9986px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:1.04997"
-     x="1051.5359"
-     y="449.85352"
+     style="font-size:39.9987px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:0.999967"
+     x="1030.0035"
+     y="444.98584"
      id="text7127-8"><tspan
        sodipodi:role="line"
        id="tspan7125-8"
-       x="1051.5359"
-       y="449.85352"
-       style="stroke-width:1.04997">TGS</tspan></text>
+       x="1030.0035"
+       y="444.98584"
+       style="stroke-width:0.999967">TGS</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:41.9986px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:1.04997"
-     x="1074.3408"
-     y="680.75256"
+     style="font-size:39.9987px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke-width:0.999967"
+     x="1051.7225"
+     y="664.88971"
      id="text9429"><tspan
        sodipodi:role="line"
        id="tspan9427"
-       x="1074.3408"
-       y="680.75256"
-       style="stroke-width:1.04997">B</tspan></text>
+       x="1051.7225"
+       y="664.88971"
+       style="stroke-width:0.999967">B</tspan></text>
   <path
-     style="fill:none;stroke:#657b83;stroke-width:3.1499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 169.54615,350.11831 H 458.28677"
+     style="fill:none;stroke:#657b83;stroke-width:2.9999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 190.01331,349.99992 H 465.00437"
      id="path15909" />
   <path
-     style="fill:none;stroke:#657b83;stroke-width:3.1499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-     d="M 741.77755,350.11831 H 1030.5182"
+     style="fill:none;stroke:#657b83;stroke-width:2.9999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+     d="M 734.99559,349.99992 H 1009.9867"
      id="path15911" />
   <path
-     style="fill:none;stroke:#d33682;stroke-width:2.09993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.09993, 2.09993;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 458.28677,376.36746 h -51.45872 v 157.49487 h 51.45872"
+     style="fill:none;stroke:#d33682;stroke-width:1.99993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.99993, 1.99993;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 465.00437,374.99911 h -49.0083 v 149.99512 h 49.0083"
      id="path951-4" />
   <path
-     style="fill:none;stroke:#d33682;stroke-width:2.09993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.09993, 2.09993;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 741.77755,376.36746 h 51.4587 v 157.49487 h -51.4587"
+     style="fill:none;stroke:#d33682;stroke-width:1.99993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.99993, 1.99993;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 734.99559,374.99911 h 49.00829 v 149.99512 h -49.00829"
      id="path951-4-4" />
   <text
      xml:space="preserve"
-     style="font-size:44.7986px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#d33682;fill-opacity:1;stroke:none;stroke-width:1.04997;stroke-opacity:1"
-     x="201.43655"
-     y="589.07922"
+     style="font-size:42.6653px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#d33682;fill-opacity:1;stroke:none;stroke-width:0.999967;stroke-opacity:1"
+     x="220.38512"
+     y="577.58173"
      id="text1782"><tspan
        sodipodi:role="line"
        id="tspan1780"
-       x="201.43655"
-       y="589.07922"
-       style="stroke-width:1.04997">Authentificateur</tspan></text>
+       x="220.38512"
+       y="577.58173"
+       style="stroke-width:0.999967">Authentificateur</tspan></text>
   <g
      id="g847"
-     transform="matrix(1.0499659,0,0,1.0499659,-31.40892,-19.646072)">
+     transform="matrix(0.9999675,0,0,0.9999675,-1.3724756,-2.1566316)">
     <text
        xml:space="preserve"
        style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#cb4b16;fill-opacity:1"
@@ -220,7 +220,7 @@
   </g>
   <g
      id="g868"
-     transform="matrix(1.0499659,0,0,1.0499659,-325.16429,250.37155)">
+     transform="matrix(0.9999675,0,0,0.9999675,-281.13949,255.00301)">
     <text
        xml:space="preserve"
        style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
@@ -234,7 +234,7 @@
   </g>
   <g
      id="g889"
-     transform="matrix(1.05,0,0,1.05,-29.972273,-17.467874)">
+     transform="translate(-0.00424,-0.08215779)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.9992px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none;stroke-width:0.90627;stroke-opacity:1"
