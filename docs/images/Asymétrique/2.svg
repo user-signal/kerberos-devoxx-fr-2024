@@ -168,9 +168,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.95875065"
-     inkscape:cx="443.28523"
-     inkscape:cy="324.902"
+     inkscape:zoom="1.3558782"
+     inkscape:cx="364.33951"
+     inkscape:cy="349.22016"
      inkscape:window-width="1920"
      inkscape:window-height="1172"
      inkscape:window-x="0"
@@ -179,7 +179,8 @@
      inkscape:current-layer="g877"
      inkscape:snap-text-baseline="false" />
   <g
-     id="g877">
+     id="g877"
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none"
@@ -190,44 +191,44 @@
          id="tspan6086"
          x="110.69843"
          y="200.54001">Texte clair</tspan></text>
-    <path
-       style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-       d="M 219.56645,169.75132 V 131.64403 H 994.00831 V 168.209"
-       id="path41199" />
     <text
        xml:space="preserve"
        style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
-       x="896.26227"
+       x="866.26227"
        y="198.72"
-       id="text9018"><tspan
+       id="text28034"><tspan
          sodipodi:role="line"
-         id="tspan9016"
-         x="896.26227"
-         y="198.72">@ö$#z!A...</tspan></text>
+         id="tspan28032"
+         x="866.26227"
+         y="198.72">0x6b8202db30</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#657b83;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 219.56645,146.74248 v -38.10729 h 774.44186 v 36.56497"
+       id="path41199" />
     <text
        xml:space="preserve"
        style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#cb4b16;fill-opacity:1"
        x="563.15698"
-       y="109.10175"
-       id="text9026"><tspan
+       y="86.092911"
+       id="text43584"><tspan
          sodipodi:role="line"
-         id="tspan9024"
+         id="tspan43582"
          x="563.15698"
-         y="109.10175">K<tspan
+         y="86.092911">K<tspan
    style="font-size:24px"
-   id="tspan4055">priv</tspan></tspan></text>
+   id="tspan4447">priv</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#869900;fill-opacity:0.992157"
        x="563.15692"
-       y="450.79568"
+       y="426.2504"
        id="text43584-2"><tspan
          sodipodi:role="line"
          id="tspan43582-5"
          x="563.15692"
-         y="450.79568">K<tspan
+         y="426.2504">K<tspan
    style="font-size:24px"
-   id="tspan7447">pub</tspan></tspan></text>
+   id="tspan11573">pub</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none"
@@ -241,16 +242,16 @@
     <text
        xml:space="preserve"
        style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
-       x="896.26221"
+       x="866.26227"
        y="540.41394"
        id="text9038"><tspan
          sodipodi:role="line"
          id="tspan9036"
-         x="896.26221"
-         y="540.41394">@ö$#z!A...</tspan></text>
+         x="866.26227"
+         y="540.41394">0x6b8202db30</tspan></text>
     <path
-       style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-9)"
-       d="m 219.56645,511.44526 v -38.10729 h 774.44182 v 36.56497"
+       style="fill:none;fill-opacity:1;stroke:#657b83;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-9)"
+       d="m 219.56645,486.89997 v -38.10729 h 774.44182 v 36.56497"
        id="path9040" />
   </g>
 </svg>

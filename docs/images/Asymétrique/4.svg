@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="3.svg"
+   sodipodi:docname="4.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -169,8 +169,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.3558782"
-     inkscape:cx="364.33951"
-     inkscape:cy="349.22016"
+     inkscape:cx="364.33952"
+     inkscape:cy="349.22017"
      inkscape:window-width="1920"
      inkscape:window-height="1172"
      inkscape:window-x="0"
@@ -285,5 +285,25 @@
        style="fill:none;fill-opacity:1;stroke:#657b83;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-4-7)"
        d="m 993.71977,569.92233 v 38.10729 H 219.27782 v -36.56497"
        id="path9042" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#6c71c4;fill-opacity:1"
+       x="510.04031"
+       y="196.40001"
+       id="text2763"><tspan
+         sodipodi:role="line"
+         id="tspan2761"
+         x="510.04031"
+         y="196.40001">Signature</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#6c71c4;fill-opacity:1"
+       x="489.54037"
+       y="542.39392"
+       id="text4219"><tspan
+         sodipodi:role="line"
+         id="tspan4217"
+         x="489.54037"
+         y="542.39392">Chiffrement</tspan></text>
   </g>
 </svg>

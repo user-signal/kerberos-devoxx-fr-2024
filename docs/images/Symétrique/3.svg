@@ -126,9 +126,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.67793909"
-     inkscape:cx="606.24915"
-     inkscape:cy="325.25046"
+     inkscape:zoom="0.95875066"
+     inkscape:cx="976.79203"
+     inkscape:cy="324.90199"
      inkscape:window-width="1920"
      inkscape:window-height="1172"
      inkscape:window-x="0"
@@ -150,20 +150,20 @@
          y="364.54001">Texte clair</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1"
-       x="893.00537"
-       y="364.72"
-       id="text28034"><tspan
+       style="font-size:40px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';display:inline;fill:#657b83;fill-opacity:1"
+       x="869.81732"
+       y="364.70001"
+       id="text28034-0"><tspan
          sodipodi:role="line"
-         id="tspan28032"
-         x="893.00537"
-         y="364.72">@ö$#z!A...</tspan></text>
+         id="tspan28032-4"
+         x="869.81732"
+         y="364.70001">0x6b8202db30</tspan></text>
     <path
-       style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       style="fill:none;fill-opacity:1;stroke:#657b83;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
        d="m 217.3979,316.97454 v -67.66713 h 772.29002 v 64.92843"
        id="path41199" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-6)"
+       style="fill:none;fill-opacity:1;stroke:#657b83;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-6)"
        d="m 990.6021,382.82192 v 67.66713 H 218.31208 v -64.92843"
        id="path41199-5" />
     <text
