@@ -201,11 +201,11 @@
         </section>
 
         <section>
-            <div class="r-stack" style="vertical-align: center">
+            <div class="r-stack">
                 <object class="fragment fade-in-then-out" data="./images/Authentification/1.svg"></object>
                 <object class="fragment fade-in-then-out" data="./images/Authentification/2.svg"></object>
                 <object class="fragment fade-in-then-out" data="./images/Authentification/3.svg"></object>
-                <object class="fragment fade-out" data="./images/Authentification/4.svg"></object>
+                <object class="fragment fade-in" data="./images/Authentification/4.svg"></object>
             </div>
         </section>
 
@@ -607,6 +607,290 @@ Kerberos
                 ENCTYPE: eTYPE-ARCFOUR-HMAC-MD5 (23)
                 ENCTYPE: eTYPE-CAMELLIA128-CTS-CMAC (25)
                 ENCTYPE: eTYPE-CAMELLIA256-CTS-CMAC (26)
+                    </code></pre>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>ASN.1</h2>
+            <div style="align-self: stretch; margin-bottom: 100%; display: grid; grid: 'left right' / 1fr 1fr">
+                <div style="grid-area: left;">
+                    <pre style="font-size: 0.8ex;"><code style="height: 610px" class="language-plaintext">
+Frame 12: 224 bytes on wire (1792 bits), 224 bytes captured (1792 bits) on interface any, id 0
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+User Datagram Protocol, Src Port: 36962, Dst Port: 88
+Kerberos
+    as-req
+        pvno: 5
+        msg-type: krb-as-req (10)
+        padata: 2 items
+            PA-DATA Unknown:150
+                padata-type: Unknown (150)
+                    padata-value: &lt;MISSING&gt;
+            PA-DATA pA-REQ-ENC-PA-REP
+                padata-type: pA-REQ-ENC-PA-REP (149)
+                    padata-value: &lt;MISSING&gt;
+        req-body
+            Padding: 0
+            kdc-options: 50000010
+                0... .... = reserved: False
+                .1.. .... = forwardable: True
+                ..0. .... = forwarded: False
+                ...1 .... = proxiable: True
+                .... 0... = proxy: False
+                .... .0.. = allow-postdate: False
+                .... ..0. = postdated: False
+                .... ...0 = unused7: False
+
+[ ... ]
+                    </code></pre>
+                </div>
+                <div style="grid-area: right">
+                    <pre style="font-size: 0.8ex;"><code style="height: 610px" class="language-plaintext">
+                0... .... = unused24: False
+                .0.. .... = unused25: False
+                ..0. .... = disable-transited-check: False
+                ...1 .... = renewable-ok: True
+                .... 0... = enc-tkt-in-skey: False
+                .... .0.. = unused29: False
+                .... ..0. = renew: False
+                .... ...0 = validate: False
+            cname
+                name-type: kRB5-NT-PRINCIPAL (1)
+                cname-string: 1 item
+                    CNameString: <span class="ch">fred</span>
+            realm: <span class="ch">SIGUSR.NET</span>
+            sname
+                name-type: kRB5-NT-SRV-INST (2)
+                sname-string: 2 items
+                    SNameString: <span class="ch">krbtgt</span>
+                    SNameString: <span class="ch">SIGUSR.NET</span>
+            till: <span class="ch">2024-03-06 08:04:43 (UTC)</span>
+            nonce: 658968847
+            etype: 8 items
+                ENCTYPE: eTYPE-AES256-CTS-HMAC-SHA1-96 (18)
+                ENCTYPE: eTYPE-AES128-CTS-HMAC-SHA1-96 (17)
+                ENCTYPE: eTYPE-AES256-CTS-HMAC-SHA384-192 (20)
+                ENCTYPE: eTYPE-AES128-CTS-HMAC-SHA256-128 (19)
+                ENCTYPE: eTYPE-DES3-CBC-SHA1 (16)
+                ENCTYPE: eTYPE-ARCFOUR-HMAC-MD5 (23)
+                ENCTYPE: eTYPE-CAMELLIA128-CTS-CMAC (25)
+                ENCTYPE: eTYPE-CAMELLIA256-CTS-CMAC (26)
+                    </code></pre>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>ASN.1</h2>
+            <div style="align-self: stretch; margin-bottom: 100%; display: grid; grid: 'left right' / 1fr 1fr">
+                <div style="grid-area: left;">
+                    <pre style="font-size: 0.8ex;"><code style="height: 610px" class="language-plaintext">
+Frame 12: 224 bytes on wire (1792 bits), 224 bytes captured (1792 bits) on interface any, id 0
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+User Datagram Protocol, Src Port: 36962, Dst Port: 88
+Kerberos
+    as-req
+        pvno: 5
+        msg-type: krb-as-req (10)
+        padata: 2 items
+            PA-DATA Unknown:150
+                padata-type: Unknown (150)
+                    padata-value: &lt;MISSING&gt;
+            PA-DATA pA-REQ-ENC-PA-REP
+                padata-type: pA-REQ-ENC-PA-REP (149)
+                    padata-value: &lt;MISSING&gt;
+        req-body
+            Padding: 0
+            kdc-options: 50000010
+                0... .... = reserved: False
+                .1.. .... = forwardable: True
+                ..0. .... = forwarded: False
+                ...1 .... = proxiable: True
+                .... 0... = proxy: False
+                .... .0.. = allow-postdate: False
+                .... ..0. = postdated: False
+                .... ...0 = unused7: False
+
+[ ... ]
+                    </code></pre>
+                </div>
+                <div style="grid-area: right">
+                    <pre style="font-size: 0.8ex;"><code style="height: 610px" class="language-plaintext">
+                0... .... = unused24: False
+                .0.. .... = unused25: False
+                ..0. .... = disable-transited-check: False
+                ...1 .... = renewable-ok: True
+                .... 0... = enc-tkt-in-skey: False
+                .... .0.. = unused29: False
+                .... ..0. = renew: False
+                .... ...0 = validate: False
+            cname
+                name-type: kRB5-NT-PRINCIPAL (1)
+                cname-string: 1 item
+                    CNameString: fred
+            realm: SIGUSR.NET
+            sname
+                name-type: kRB5-NT-SRV-INST (2)
+                sname-string: 2 items
+                    SNameString: krbtgt
+                    SNameString: SIGUSR.NET
+            till: 2024-03-06 08:04:43 (UTC)
+            nonce: <span class="ch">658968847</span>
+            etype: 8 items
+                ENCTYPE: eTYPE-AES256-CTS-HMAC-SHA1-96 (18)
+                ENCTYPE: eTYPE-AES128-CTS-HMAC-SHA1-96 (17)
+                ENCTYPE: eTYPE-AES256-CTS-HMAC-SHA384-192 (20)
+                ENCTYPE: eTYPE-AES128-CTS-HMAC-SHA256-128 (19)
+                ENCTYPE: eTYPE-DES3-CBC-SHA1 (16)
+                ENCTYPE: eTYPE-ARCFOUR-HMAC-MD5 (23)
+                ENCTYPE: eTYPE-CAMELLIA128-CTS-CMAC (25)
+                ENCTYPE: eTYPE-CAMELLIA256-CTS-CMAC (26)
+                    </code></pre>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>ASN.1</h2>
+            <div style="align-self: stretch; margin-bottom: 100%; display: grid; grid: 'left right' / 1fr 1fr">
+                <div style="grid-area: left;">
+                    <pre style="font-size: 0.8ex;"><code style="height: 610px" class="language-plaintext">
+Frame 12: 224 bytes on wire (1792 bits), 224 bytes captured (1792 bits) on interface any, id 0
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+User Datagram Protocol, Src Port: 36962, Dst Port: 88
+Kerberos
+    as-req
+        pvno: 5
+        msg-type: krb-as-req (10)
+        padata: 2 items
+            PA-DATA Unknown:150
+                padata-type: Unknown (150)
+                    padata-value: &lt;MISSING&gt;
+            PA-DATA pA-REQ-ENC-PA-REP
+                padata-type: pA-REQ-ENC-PA-REP (149)
+                    padata-value: &lt;MISSING&gt;
+        req-body
+            Padding: 0
+            <span class="ch">kdc-options: 50000010</span>
+                <span class="ch">0... .... = reserved: False</span>
+                <span class="ch">.1.. .... = forwardable: True</span>
+                <span class="ch">..0. .... = forwarded: False</span>
+                <span class="ch">...1 .... = proxiable: True</span>
+                <span class="ch">.... 0... = proxy: False</span>
+                <span class="ch">.... .0.. = allow-postdate: False</span>
+                <span class="ch">.... ..0. = postdated: False</span>
+                <span class="ch">.... ...0 = unused7: False</span>
+
+[ ... ]
+                    </code></pre>
+                </div>
+                <div style="grid-area: right">
+                    <pre style="font-size: 0.8ex;"><code style="height: 610px" class="language-plaintext">
+                <span class="ch">0... .... = unused24: False</span>
+                <span class="ch">.0.. .... = unused25: False</span>
+                <span class="ch">..0. .... = disable-transited-check: False</span>
+                <span class="ch">...1 .... = renewable-ok: True</span>
+                <span class="ch">.... 0... = enc-tkt-in-skey: False</span>
+                <span class="ch">.... .0.. = unused29: False</span>
+                <span class="ch">.... ..0. = renew: False</span>
+                <span class="ch">.... ...0 = validate: False</span>
+            cname
+                name-type: kRB5-NT-PRINCIPAL (1)
+                cname-string: 1 item
+                    CNameString: fred
+            realm: SIGUSR.NET
+            sname
+                name-type: kRB5-NT-SRV-INST (2)
+                sname-string: 2 items
+                    SNameString: krbtgt
+                    SNameString: SIGUSR.NET
+            till: 2024-03-06 08:04:43 (UTC)
+            nonce: 658968847
+            etype: 8 items
+                ENCTYPE: eTYPE-AES256-CTS-HMAC-SHA1-96 (18)
+                ENCTYPE: eTYPE-AES128-CTS-HMAC-SHA1-96 (17)
+                ENCTYPE: eTYPE-AES256-CTS-HMAC-SHA384-192 (20)
+                ENCTYPE: eTYPE-AES128-CTS-HMAC-SHA256-128 (19)
+                ENCTYPE: eTYPE-DES3-CBC-SHA1 (16)
+                ENCTYPE: eTYPE-ARCFOUR-HMAC-MD5 (23)
+                ENCTYPE: eTYPE-CAMELLIA128-CTS-CMAC (25)
+                ENCTYPE: eTYPE-CAMELLIA256-CTS-CMAC (26)
+                    </code></pre>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>ASN.1</h2>
+            <div style="align-self: stretch; margin-bottom: 100%; display: grid; grid: 'left right' / 1fr 1fr">
+                <div style="grid-area: left;">
+                    <pre style="font-size: 0.8ex;"><code style="height: 610px" class="language-plaintext">
+Frame 12: 224 bytes on wire (1792 bits), 224 bytes captured (1792 bits) on interface any, id 0
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+User Datagram Protocol, Src Port: 36962, Dst Port: 88
+Kerberos
+    as-req
+        pvno: 5
+        msg-type: krb-as-req (10)
+        padata: 2 items
+            PA-DATA Unknown:150
+                padata-type: Unknown (150)
+                    padata-value: &lt;MISSING&gt;
+            PA-DATA pA-REQ-ENC-PA-REP
+                padata-type: pA-REQ-ENC-PA-REP (149)
+                    padata-value: &lt;MISSING&gt;
+        req-body
+            Padding: 0
+            kdc-options: 50000010
+                0... .... = reserved: False
+                .1.. .... = forwardable: True
+                ..0. .... = forwarded: False
+                ...1 .... = proxiable: True
+                .... 0... = proxy: False
+                .... .0.. = allow-postdate: False
+                .... ..0. = postdated: False
+                .... ...0 = unused7: False
+
+[ ... ]
+                    </code></pre>
+                </div>
+                <div style="grid-area: right">
+                    <pre style="font-size: 0.8ex;"><code style="height: 610px" class="language-plaintext">
+                0... .... = unused24: False
+                .0.. .... = unused25: False
+                ..0. .... = disable-transited-check: False
+                ...1 .... = renewable-ok: True
+                .... 0... = enc-tkt-in-skey: False
+                .... .0.. = unused29: False
+                .... ..0. = renew: False
+                .... ...0 = validate: False
+            cname
+                name-type: kRB5-NT-PRINCIPAL (1)
+                cname-string: 1 item
+                    CNameString: fred
+            realm: SIGUSR.NET
+            sname
+                name-type: kRB5-NT-SRV-INST (2)
+                sname-string: 2 items
+                    SNameString: krbtgt
+                    SNameString: SIGUSR.NET
+            till: 2024-03-06 08:04:43 (UTC)
+            nonce: 658968847
+            <span class="ch">etype: 8 items</span>
+                <span class="ch">ENCTYPE: eTYPE-AES256-CTS-HMAC-SHA1-96 (18)</span>
+                <span class="ch">ENCTYPE: eTYPE-AES128-CTS-HMAC-SHA1-96 (17)</span>
+                <span class="ch">ENCTYPE: eTYPE-AES256-CTS-HMAC-SHA384-192 (20)</span>
+                <span class="ch">ENCTYPE: eTYPE-AES128-CTS-HMAC-SHA256-128 (19)</span>
+                <span class="ch">ENCTYPE: eTYPE-DES3-CBC-SHA1 (16)</span>
+                <span class="ch">ENCTYPE: eTYPE-ARCFOUR-HMAC-MD5 (23)</span>
+                <span class="ch">ENCTYPE: eTYPE-CAMELLIA128-CTS-CMAC (25)</span>
+                <span class="ch">ENCTYPE: eTYPE-CAMELLIA256-CTS-CMAC (26)</span>
                     </code></pre>
                 </div>
             </div>
