@@ -153,12 +153,12 @@ $codeFont: Iosevka;
 }
 
 .reveal .code {
-  background-color: $base3;
-  border-radius: 2px;
-  font-family: monospace;
+  font-family: "Iosevka", sans-serif;
+  background-color: rgba($base1, 10%);
+  border-radius: 10px;
   font-size: smaller;
   padding: 1px 4px;
-  border: 1px solid $base01;
+  border: 1px solid $magenta;
 }
 
 .reveal .label {
