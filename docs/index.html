@@ -119,11 +119,11 @@
 
         <section>
             <div class="list" style="margin-top: 4em; margin-bottom: 100%">
-                <div class="item fragment"><span class="magenta">DES</span> (Data Encryption Standard)</div>
-                <div style="margin-left: 15%" class="item fragment"><span class="magenta">Lucifer</span> [<span class="blue">1971</span>]</div>
-                <div style="margin-left: 15%" class="item fragment">Standard FIPS [<span class="blue">1977</span>]</div>
-                <div class="item fragment"><span class="magenta">RSA</span> (Rivest, Shamir, Adleman)</div>
-                <div style="margin-left: 15%" class="item fragment">Description [<span class="blue">1978</span>]</div>
+                <div class="item"><span class="magenta">DES</span> (Data Encryption Standard)</div>
+                <div style="margin-left: 15%" class="item"><span class="magenta">Lucifer</span> [<span class="blue">1971</span>]</div>
+                <div style="margin-left: 15%" class="item">Standard FIPS [<span class="blue">1977</span>]</div>
+                <div class="item fragment"  data-fragment-index="0" ><span class="magenta">RSA</span> (Rivest, Shamir, Adleman)</div>
+                <div style="margin-left: 15%" class="item fragment" data-fragment-index="0" >Description [<span class="blue">1978</span>]</div>
             </div>
         </section>
 
@@ -139,11 +139,11 @@
                 <div class="item"><span class="magenta">RSA</span> (Rivest, Shamir, Adleman)</div>
                 <div style="margin-left: 15%" class="item">Description [<span class="blue">1978</span>]</div>
                 <div style="margin-left: 15%" class="item">Brevet MIT [<span class="blue">1983</span>]</div>
-                <div class="item fragment"><span class="fragment strike"><span class="magenta">HTTP</span> (Hyper Text Transport Protocol)</span></div>
-                <div style="margin-left: 15%" class="item fragment">Description [<span class="blue">1990</span>]</div>
-                <div style="margin-left: 15%" class="item fragment"><a href="https://datatracker.ietf.org/doc/html/rfc1945">RFC 1945</a> [<span class="blue">1996</span>]</div>
-                <div class="item fragment"><span class="fragment strike"><span class="magenta">SSL</span> (Secure Socket Layer)</span></div>
-                <div style="margin-left: 15%" class="item fragment">Norme v2.0 [<span class="blue">1995</span>]</div>
+                <div class="item fragment" data-fragment-index="0" ><span class="fragment strike" data-fragment-index="1" ><span class="magenta">HTTP</span> (Hyper Text Transport Protocol)</span></div>
+                <div style="margin-left: 15%" class="item fragment" data-fragment-index="2" >Description [<span class="blue">1990</span>]</div>
+                <div style="margin-left: 15%" class="item fragment" data-fragment-index="2" ><a href="https://datatracker.ietf.org/doc/html/rfc1945">RFC 1945</a> [<span class="blue">1996</span>]</div>
+                <div class="item fragment" data-fragment-index="3" ><span class="fragment strike" data-fragment-index="4" ><span class="magenta">SSL</span> (Secure Socket Layer)</span></div>
+                <div style="margin-left: 15%" class="item fragment" data-fragment-index="5" >Norme v2.0 [<span class="blue">1995</span>]</div>
             </div>
         </section>
 
@@ -178,8 +178,6 @@
             <div class="list">
                 <div class="item"><span style="font-size: larger" class="magenta">Authentification</span></div>
                 <div class="item">processus visant à garantir l'authenticité d'une identité</div>
-                <div class="item fragment" style="margin-top: 1em">Différent de l'<span class="magenta">authorisation</span></div>
-                <div class="item fragment" style="margin-top: 1em">Basé sur quelque chose que l'on possède</div>
             </div>
         </section>
 
@@ -320,6 +318,24 @@
 
         <section>
             <div class="list">
+                <div class="item fragment"><span class="magenta">Projet Athena</span></div>
+                <div style="margin-left: 15%" class="item fragment">MIT [<span class="blue">1983</span>]</div>
+                <div style="margin-left: 15%" class="item fragment">Hesiod, Moira, <span class="magenta">X Window System</span></div>
+                <div class="item fragment" style="margin-top: 1ex"><span class="magenta">Microsoft</span></div>
+                <div style="margin-left: 15%" class="item fragment">Windows 2000, <span>Active Directory</span> [<span class="blue">2000</span>]</div>
+            </div>
+        </section>
+
+        <section>
+            <div class="list">
+                <div class="item fragment">Prémisses</div>
+                <div style="margin-left: 15%" class="item fragment">Réseau non chiffré</div>
+                <div style="margin-left: 15%" class="item fragment">Capacités limitées (calcul, réseau)</div>
+            </div>
+        </section>
+
+        <section>
+            <div class="list">
                 <div class="item"><span style="font-size: larger" class="magenta">Realm</span></div>
                 <div class="item">Périmètre administratif de Kerberos</div>
                 <div class="item fragment code" style="margin-top: 2em">SIGUSR.NET</div>
@@ -346,10 +362,10 @@
             <div class="list">
                 <div class="item magenta">KDC</div>
                 <div class="item">Key Distribution Center</div>
-                <div class="item magenta" style="margin-top: 1em">AS</div>
-                <div class="item">Authentication Server</div>
-                <div class="item magenta" style="margin-top: 1em">TGS</div>
-                <div class="item">Ticket Granting Server</div>
+                <div class="fragment item magenta" data-fragment-index="0" style="margin-top: 1em">AS</div>
+                <div class="fragment item" data-fragment-index="0" >Authentication Server</div>
+                <div class="fragment item magenta"  data-fragment-index="1" style="margin-top: 1em">TGS</div>
+                <div class="fragment item" data-fragment-index="1" >Ticket Granting Server</div>
             </div>
         </section>
 
@@ -357,11 +373,44 @@
             <div class="r-stack" style="vertical-align: center">
                 <object class="fragment fade-in-then-out" data="./images/Kerberos/2.svg"></object>
                 <object class="fragment fade-in-then-out" data="./images/Kerberos/3.svg"></object>
+            </div>
+        </section>
+
+        <section>
+            <div class="list" style="vertical-align: center">
+                    <div class="fragment item"  data-fragment-index="0" ><span class="magenta">UDP</span> [RFC 1510 - <span class="blue">1993</span>]</div>
+                    <div class="fragment item"  data-fragment-index="0" >User Datagram Protocol</div>
+                    <div class="fragment item"  data-fragment-index="0" >Port 88</div>
+                    <div class="fragment item"  data-fragment-index="1"  style="margin-top: 1ex"><span class="magenta">TCP</span> [RFC 4210 - <span class="blue">2005</span>]</div>
+                    <div class="fragment item"  data-fragment-index="1" >Transmission Control Protocol</div>
+                    <div class="fragment item"  data-fragment-index="1" >Port configurable</div>
+            </div>
+        </section>
+
+        <section>
+            <div class="r-stack" style="vertical-align: center">
+                <object class="fragment fade-in-then-out" data="./images/Kerberos/3.svg"></object>
                 <object class="fragment fade-in-then-out" data="./images/Kerberos/4.svg"></object>
                 <object class="fragment fade-in-then-out" data="./images/Kerberos/5.svg"></object>
                 <object class="fragment fade-in-then-out" data="./images/Kerberos/6a.svg"></object>
-                <object class="fragment fade-in-then-out" data="./images/Kerberos/6b.svg"></object>
                 <object class="fragment fade-in-then-out" data="./images/Kerberos/6c.svg"></object>
+            </div>
+        </section>
+
+
+        <section>
+            <div class="list">
+                <div class="item magenta">Str2Key</div>
+                <div class="item">Dérivation de clef depuis un mot de passe</div>
+                <div class="fragment item magenta" data-fragment-index="0" style="margin-top: 1ex">Keytab</div>
+                <div class="fragment item" data-fragment-index="0" >Stockage de clef pour un service</div>
+            </div>
+        </section>
+
+        <section>
+            <div class="r-stack" style="vertical-align: center">
+                <object class="fragment fade-in-then-out" data="./images/Kerberos/6c.svg"></object>
+                <object class="fragment fade-in-then-out" data="./images/Kerberos/6b.svg"></object>
                 <object class="fragment fade-in-then-out" data="./images/Kerberos/6d.svg"></object>
             </div>
         </section>
@@ -948,7 +997,7 @@ Kerberos
         </section>
 
         <section>
-            <h1>PK_INIT</h1>
+            <h1>PRE AUTHENTICATION</h1>
             <blockquote style="margin-top: 6em; margin-right: 2em; margin-bottom: 100%">
                 « Comme dans toute initiation,
                 <div>c'est dans le fait même de survivre qu'est le triomphe. »</div>

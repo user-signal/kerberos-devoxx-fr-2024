@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="11.svg"
+   sodipodi:docname="11 (copie).svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -92,9 +92,9 @@
      inkscape:pagecheckerboard="false"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="1.3558782"
-     inkscape:cx="661.93264"
-     inkscape:cy="376.50876"
+     inkscape:zoom="3.8350027"
+     inkscape:cx="662.18989"
+     inkscape:cy="376.4013"
      inkscape:window-width="1920"
      inkscape:window-height="1172"
      inkscape:window-x="0"
@@ -191,51 +191,23 @@
        y="664.90002">B</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-     x="527.92822"
-     y="230.01431"
-     id="text8602"><tspan
-       sodipodi:role="line"
-       id="tspan8600"
-       x="527.92822"
-       y="230.01431">b@SIGUSR.NET</tspan></text>
-  <text
-     xml:space="preserve"
      style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#6c71c4;fill-opacity:1;stroke:none;stroke-opacity:1"
      x="583.73602"
-     y="278.23508"
+     y="330.23508"
      id="text25298"><tspan
        sodipodi:role="line"
        id="tspan25296"
        x="583.73602"
-       y="278.23508">ST<tspan
+       y="330.23508">ST<tspan
    style="font-size:16px;fill:#6c71c4;fill-opacity:1"
    id="tspan4691">B</tspan></tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:24px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';fill:#657b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-     x="552.14417"
-     y="326.87659"
-     id="text27480"><tspan
-       sodipodi:role="line"
-       id="tspan27478"
-       x="552.14417"
-       y="326.87659">validité</tspan></text>
   <rect
      style="opacity:0.995768;fill:none;fill-opacity:1;stroke:#657b83;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect18756"
-     width="260"
-     height="312.1618"
-     x="470"
-     y="193.9191" />
-  <path
-     style="fill:none;stroke:#657b83;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 470,245.9191 H 730"
-     id="path18915" />
-  <path
-     style="fill:none;stroke:#657b83;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 470,295.0191 H 730"
-     id="path18915-8" />
+     width="260.35516"
+     height="211.25848"
+     x="469.82242"
+     y="295" />
   <path
      style="fill:none;stroke:#657b83;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 470,345.9191 H 730"
