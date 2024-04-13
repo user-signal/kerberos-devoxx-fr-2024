@@ -29,7 +29,7 @@
             <div style="display: flex; justify-content: space-between">
                 <div style="margin-left: 2em; display: flex; flex-direction: column">
                     <div style="margin-top: 1em; text-align: left" class="green">Frédéric Cabestre</div>
-                    <div style="font-size: smaller; text-align: left" class="blue">@fcabestre</div>
+                    <div style="font-size: smaller; text-align: left" class="blue">@fcabestre@framapiaf.org</div>
                 </div>
             </div>
             <blockquote style="margin-top: 12em; margin-right: 2em; margin-bottom: 100%">
@@ -175,7 +175,7 @@
         </section>
 
         <section>
-            <div class="list">
+            <div class="list" style="margin-top: 4em; margin-bottom: 100%">
                 <div class="item"><span style="font-size: larger" class="magenta">Authentification</span></div>
                 <div class="item">processus visant à garantir l'authenticité d'une identité</div>
             </div>
@@ -204,7 +204,7 @@
         </section>
 
         <section>
-            <div class="list">
+            <div class="list" style="margin-top: 4em; margin-bottom: 100%">
                 <div class="item"><span style="font-size: larger" class="magenta">Notation de protocole de sécurité</span></div>
                 <div class="item">Formalisme de représentation de protocoles permettant de raisonner</div>
                 <div class="item">sur leurs propriétés</div>
@@ -222,67 +222,26 @@
         </section>
 
         <section>
-            <div class="list">
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$\textcolor{#d33682}{A}\rightarrow \textcolor{#d33682}{S}:\textcolor{#d33682}{A}, \textcolor{#d33682}{B}, N_A$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$\textcolor{#d33682}{S}\rightarrow \textcolor{#d33682}{A}:\{N_{A},K_{AB},\textcolor{#d33682}{B},\{K_{AB},A\}_{K_{BS}}\}_{K_{AS}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$\textcolor{#d33682}{A}\rightarrow \textcolor{#d33682}{B}:\{K_{AB},\textcolor{#d33682}{A}\}_{K_{BS}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$\textcolor{#d33682}{B}\rightarrow \textcolor{#d33682}{A}:\{N_{B}\}_{K_{AB}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$\textcolor{#d33682}{A}\rightarrow \textcolor{#d33682}{B}:\{N_{B}-1\}_{K_{AB}}$</div>
+            <div class="r-stack">
+                <object data="./images/Needham-Schroeder/1.svg"></object>
+                <object class="fragment fade-in-then-out" data="./images/Needham-Schroeder/2.svg"></object>
+                <object class="fragment fade-in-then-out" data="./images/Needham-Schroeder/3.svg"></object>
+                <object class="fragment fade-in-then-out" data="./images/Needham-Schroeder/3a.svg"></object>
             </div>
         </section>
 
-        <section>
-            <div class="list">
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow S:A, B, \textcolor{#d33682}{N_{A}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$S\rightarrow A:\{\textcolor{#d33682}{N_{A}},K_{AB},B,\{K_{AB},A\}_{K_{BS}}\}_{K_{AS}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow B:\{K_{AB},A\}_{K_{BS}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$B\rightarrow A:\{\textcolor{#d33682}{N_{B}}\}_{K_{AB}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow B:\{\textcolor{#d33682}{N_{B}}-1\}_{K_{AB}}$</div>
-            </div>
-        </section>
 
         <section>
-            <div class="list">
+            <div class="list" style="margin-top: 4em; margin-bottom: 100%">
                 <div class="item"><span style="font-size: larger" class="magenta">Nonce</span></div>
                 <div class="item">nombre aléatoire à usage unique</div>
             </div>
         </section>
 
         <section>
-            <div class="list">
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow S:A, B, N_A$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$S\rightarrow A:\{N_{A},\textcolor{#d33682}{K_{AB}},B,\{\textcolor{#d33682}{K_{AB}},A\}_{\textcolor{#d33682}{K_{BS}}}\}_{\textcolor{#d33682}{K_{AS}}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow B:\{\textcolor{#d33682}{K_{AB}},A\}_{\textcolor{#d33682}{K_{BS}}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$B\rightarrow A:\{N_{B}\}_{\textcolor{#d33682}{K_{AB}}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow B:\{N_{B}-1\}_{\textcolor{#d33682}{K_{AB}}}$</div>
-            </div>
-        </section>
-
-        <section>
-            <div class="list">
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$\textcolor{#d33682}{A\rightarrow S}:A, B, N_A$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$\textcolor{#d33682}{S\rightarrow A}:\{N_{A},K_{AB},B,\{K_{AB},A\}_{K_{BS}}\}_{K_{AS}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$\textcolor{#d33682}{A\rightarrow B}:\{K_{AB},A\}_{K_{BS}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$\textcolor{#d33682}{B\rightarrow A}:\{N_{B}\}_{K_{AB}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$\textcolor{#d33682}{A\rightarrow B}:\{N_{B}-1\}_{K_{AB}}$</div>
-            </div>
-        </section>
-
-        <section>
-            <div class="list">
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow S:\textcolor{#d33682}{A, B, N_A}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$S\rightarrow A:\textcolor{#d33682}{\{N_{A},K_{AB},B,\{K_{AB},A\}_{K_{BS}}\}_{K_{AS}}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow B:\textcolor{#d33682}{\{K_{AB},A\}_{K_{BS}}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$B\rightarrow A:\textcolor{#d33682}{\{N_{B}\}_{K_{AB}}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow B:\textcolor{#d33682}{\{N_{B}-1\}_{K_{AB}}}$</div>
-            </div>
-        </section>
-
-        <section>
             <div class="r-stack">
                 <object data="./images/Needham-Schroeder/1.svg"></object>
-                <object class="fragment fade-in-then-out" data="./images/Needham-Schroeder/2.svg"></object>
-                <object class="fragment fade-in-then-out" data="./images/Needham-Schroeder/3.svg"></object>
+                <object class="fragment fade-in-then-out" data="./images/Needham-Schroeder/3a.svg"></object>
                 <object class="fragment fade-in-then-out" data="./images/Needham-Schroeder/4.svg"></object>
                 <object class="fragment fade-in-then-out" data="./images/Needham-Schroeder/5.svg"></object>
                 <object class="fragment fade-in-then-out" data="./images/Needham-Schroeder/6.svg"></object>
@@ -317,7 +276,7 @@
         </section>
 
         <section>
-            <div class="list">
+            <div class="list" style="margin-top: 4em; margin-bottom: 100%">
                 <div class="item fragment"><span class="magenta">Projet Athena</span></div>
                 <div style="margin-left: 15%" class="item fragment">MIT [<span class="blue">1983</span>]</div>
                 <div style="margin-left: 15%" class="item fragment">Hesiod, Moira, <span class="magenta">X Window System</span></div>
@@ -327,15 +286,15 @@
         </section>
 
         <section>
-            <div class="list">
-                <div class="item fragment magenta">Hypothèses</div>
+            <div class="list" style="margin-top: 4em; margin-bottom: 100%">
+                <div class="item fragment magenta" style="font-size: larger">Hypothèses</div>
                 <div style="margin-left: 15%" class="item fragment">Réseau non chiffré</div>
                 <div style="margin-left: 15%" class="item fragment">Capacités limitées (calcul, réseau)</div>
             </div>
         </section>
 
         <section>
-            <div class="list">
+            <div class="list" style="margin-top: 4em; margin-bottom: 100%">
                 <div class="item"><span style="font-size: larger" class="magenta">Realm</span></div>
                 <div class="item">Périmètre administratif de Kerberos</div>
                 <div class="item fragment code" style="margin-top: 2em">SIGUSR.NET</div>
@@ -343,7 +302,7 @@
         </section>
 
         <section>
-            <div class="list">
+            <div class="list" style="margin-top: 4em; margin-bottom: 100%">
                 <div class="item"><span style="font-size: larger" class="magenta">Principal</span></div>
                 <div class="item">Identité d'un utilisateur ou d'un service Kerberos</div>
                 <div class="item fragment code" style="margin-top: 2em">fred/admin@SIGUSR.NET</div>
@@ -359,7 +318,7 @@
         </section>
 
         <section>
-            <div class="list">
+            <div class="list" style="margin-top: 4em; margin-bottom: 100%">
                 <div class="item magenta">KDC</div>
                 <div class="item">Key Distribution Center</div>
                 <div class="fragment item magenta" data-fragment-index="0" style="margin-top: 1em">AS</div>
@@ -377,7 +336,7 @@
         </section>
 
         <section>
-            <div class="list" style="vertical-align: center">
+            <div class="list" style="margin-top: 4em; margin-bottom: 100%">
                     <div class="fragment item"  data-fragment-index="0" ><span class="magenta">UDP</span> [RFC 1510 - <span class="blue">1993</span>]</div>
                     <div class="fragment item"  data-fragment-index="0" >User Datagram Protocol</div>
                     <div class="fragment item"  data-fragment-index="0" >Port 88</div>
@@ -399,7 +358,7 @@
 
 
         <section>
-            <div class="list">
+            <div class="list" style="margin-top: 4em; margin-bottom: 100%">
                 <div class="item magenta">Str2Key</div>
                 <div class="item">Dérivation de clef depuis un mot de passe</div>
                 <div class="fragment item magenta" data-fragment-index="0" style="margin-top: 1ex">Keytab</div>
@@ -416,7 +375,7 @@
         </section>
 
         <section>
-            <div class="list">
+            <div class="list" style="margin-top: 4em; margin-bottom: 100%">
                 <div class="item magenta">TGT</div>
                 <div class="item">Ticket Granting Ticket</div>
             </div>
@@ -436,7 +395,7 @@
         </section>
 
         <section>
-            <div class="list">
+            <div class="list" style="margin-top: 4em; margin-bottom: 100%">
                 <div class="item magenta">ST</div>
                 <div class="item">Service Ticket</div>
             </div>
@@ -450,6 +409,31 @@
             </div>
         </section>
 
+
+        <section>
+            <h1>Pré authentification</h1>
+            <blockquote style="margin-top: 6em; margin-right: 2em; margin-bottom: 100%">
+                « Montrez-moi patte blanche, ou je n’ouvrirai point »
+                <div style="font-size: smaller">&mdash; Jean de la Fontaine</div>
+            </blockquote>
+        </section>
+
+        <section>
+            <div class="list" style="margin-top: 4em; margin-bottom: 100%">
+                <div class="item magenta">Attaque hors ligne</div>
+                <div class="item">Attaque menée en dehors de l'échange protocolaire</div>
+                <div class="item">sur une donnée capturée</div>
+            </div>
+        </section>
+
+        <section>
+            <div class="r-stack" style="vertical-align: center">
+                <object class="fragment fade-in-then-out" data="./images/Kerberos/12a.svg"></object>
+                <object class="fragment fade-in-then-out" data="./images/Kerberos/12b.svg"></object>
+                <object class="fragment fade-in-then-out" data="./images/Kerberos/12c.svg"></object>
+            </div>
+        </section>
+
         <section>
             <h1>ASN.1</h1>
             <blockquote style="margin-top: 6em; margin-right: 2em; margin-bottom: 100%">
@@ -460,7 +444,7 @@
         </section>
 
         <section>
-            <img src="./images/ASN.1.png" alt="RSA paper">
+            <img src="./images/ASN.1.png" alt="Document norme ASN.1">
         </section>
 
         <section>
@@ -503,6 +487,34 @@
             <pre class="fragment" style="width: 55%; font-size: 0.8ex;"><code  class="language-plaintext">
                 $ openssl asn1parse -i -dump -in AS_REQ.bin -inform DER
             </code></pre>
+        </section>
+
+        <section>
+            <pre style="width: 55%; font-size: 0.8ex;"><code style="max-height: 800px" class="language-plaintext" data-noescape="">
+                000000 30 81 ae a1 03 02 01 05 a2 03 02 01 0a a3 1a 30  >0..............0<
+                000010 18 30 0a a1 04 02 02 00 96 a2 02 04 00 30 0a a1  >.0...........0..<
+                000020 04 02 02 00 95 a2 02 04 00 a4 81 85 30 81 82 a0  >............0...<
+                000030 07 03 05 00 50 00 00 10 a1 11 30 0f a0 03 02 01  >....P.....0.....<
+                000040 01 a1 08 30 06 1b 04 66 72 65 64 a2 0c 1b 0a 53  >...0...<span class="ch">fred</span>....<span class="ch">S</span><
+                000050 49 47 55 53 52 2e 4e 45 54 a3 1f 30 1d a0 03 02  ><span class="ch">IGUSR.NET</span>..0....<
+                000060 01 02 a1 16 30 14 1b 06 6b 72 62 74 67 74 1b 0a  >....0...<span class="ch">krbtgt</span>..<
+                000070 53 49 47 55 53 52 2e 4e 45 54 a5 11 18 0f 32 30  ><span class="ch">SIGUSR.NET</span>....20<
+                000080 32 34 30 33 30 36 30 38 30 34 34 33 5a a7 06 02  ><span class="ch">240306080443Z</span>...<
+                000090 04 27 47 11 0f a8 1a 30 18 02 01 12 02 01 11 02  >.'G....0........<
+                0000a0 01 14 02 01 13 02 01 10 02 01 17 02 01 19 02 01  >................<
+                0000b0 1a                                               >.<
+                0000b1
+            </code></pre>
+            <pre style="width: 55%; font-size: 0.8ex;"><code  class="language-plaintext">
+                $ openssl asn1parse -i -dump -in AS_REQ.bin -inform <span class="ch">DER</span>
+            </code></pre>
+        </section>
+
+        <section>
+            <div class="list" style="margin-top: 4em; margin-bottom: 100%">
+                <div class="item magenta">DER</div>
+                <div class="item">Distinguished Encoding Rules</div>
+            </div>
         </section>
 
         <section>
@@ -644,6 +656,18 @@
                     </code></pre>
                 </div>
             </div>
+        </section>
+
+
+        <section>
+            <div class="list" style="margin-top: 4em; margin-bottom: 100%">
+                <div class="item magenta">Wireshark</div>
+                <div class="item">Analyseur de protocoles réseau</div>
+            </div>
+        </section>
+
+        <section>
+            <img src="./images/Wireshark.png" alt="Wireshark screen">
         </section>
 
         <section>
@@ -997,30 +1021,6 @@ Kerberos
         </section>
 
         <section>
-            <h1>Pré authentification</h1>
-            <blockquote style="margin-top: 6em; margin-right: 2em; margin-bottom: 100%">
-                « Montrez-moi patte blanche, ou je n’ouvrirai point »
-                <div style="font-size: smaller">&mdash; Jean de la Fontaine</div>
-            </blockquote>
-        </section>
-
-        <section>
-            <div class="list">
-                <div class="item magenta">Attaque hors ligne</div>
-                <div class="item">Attaque menée en dehors de l'échange protocolaire</div>
-                <div class="item">sur une donnée capturée</div>
-            </div>
-        </section>
-
-        <section>
-            <div class="r-stack" style="vertical-align: center">
-                <object class="fragment fade-in-then-out" data="./images/Kerberos/12a.svg"></object>
-                <object class="fragment fade-in-then-out" data="./images/Kerberos/12b.svg"></object>
-                <object class="fragment fade-in-then-out" data="./images/Kerberos/12c.svg"></object>
-            </div>
-        </section>
-
-        <section>
             <h1>PKINIT</h1>
 
             <blockquote style="margin-top: 6em; margin-right: 2em; margin-bottom: 100%">
@@ -1080,11 +1080,20 @@ Kerberos
             <img style="vertical-align: center" src="./images/SPNEGO.png" alt="GSSAPI RFC">
         </section>
 
+
+        <section>
+            <h1>Coda</h1>
+            <blockquote style="margin-top: 6em; margin-right: 2em; margin-bottom: 100%">
+                « This is the end, my only friend the end. »
+                <div style="font-size: smaller">&mdash; The Doors</div>
+            </blockquote>
+        </section>
+
         <section>
             <div style="display: flex; justify-content: space-between">
                 <div style="margin-left: 2em; display: flex; flex-direction: column">
                     <div style="margin-top: 1em; text-align: left" class="green">Frédéric Cabestre</div>
-                    <div style="font-size: smaller; text-align: left" class="blue">@fcabestre</div>
+                    <div style="font-size: smaller; text-align: left" class="blue">@fcabestre@framapiaf.org</div>
                 </div>
             </div>
             <h1 style="margin-top: 1.5em ; margin-bottom: 100%">Merci</h1>
