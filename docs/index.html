@@ -197,21 +197,29 @@
 
         <section>
             <div class="list" style="margin-top: 4em; margin-bottom: 100%">
-                <div class="item"><span style="font-size: larger" class="magenta">Notation de protocole de sécurité</span></div>
-                <div class="item">Formalisme de représentation de protocoles permettant de raisonner</div>
-                <div class="item">sur leurs propriétés</div>
+                <div class="item magenta" style="font-size: larger">Hypothèses</div>
+                <div style="margin-left: 15%" class="item fragment">Réseau non chiffré</div>
+                <div style="margin-left: 15%" class="item fragment">Capacités limitées (calcul, réseau)</div>
             </div>
         </section>
 
-        <section>
-            <div class="list">
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow S:A, B, N_A$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$S\rightarrow A:\{N_{A},K_{AB},B,\{K_{AB},A\}_{K_{BS}}\}_{K_{AS}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow B:\{K_{AB},A\}_{K_{BS}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$B\rightarrow A:\{N_{B}\}_{K_{AB}}$</div>
-                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow B:\{N_{B}-1\}_{K_{AB}}$</div>
-            </div>
-        </section>
+<!--        <section>-->
+<!--            <div class="list" style="margin-top: 4em; margin-bottom: 100%">-->
+<!--                <div class="item"><span style="font-size: larger" class="magenta">Notation de protocole de sécurité</span></div>-->
+<!--                <div class="item">Formalisme de représentation de protocoles permettant de raisonner</div>-->
+<!--                <div class="item">sur leurs propriétés</div>-->
+<!--            </div>-->
+<!--        </section>-->
+
+<!--        <section>-->
+<!--            <div class="list">-->
+<!--                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow S:A, B, N_A$</div>-->
+<!--                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$S\rightarrow A:\{N_{A},K_{AB},B,\{K_{AB},A\}_{K_{BS}}\}_{K_{AS}}$</div>-->
+<!--                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow B:\{K_{AB},A\}_{K_{BS}}$</div>-->
+<!--                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$B\rightarrow A:\{N_{B}\}_{K_{AB}}$</div>-->
+<!--                <div class="item" style="margin-left: 20%; margin-bottom: 1ex; justify-self: left">$A\rightarrow B:\{N_{B}-1\}_{K_{AB}}$</div>-->
+<!--            </div>-->
+<!--        </section>-->
 
         <section>
             <object data="./images/Needham-Schroeder/1.svg"></object>
@@ -259,7 +267,7 @@
 
         <section>
             <div class="list" style="margin-top: 4em; margin-bottom: 100%">
-                <div class="item"><span style="font-size: larger" class="magenta">Attaque par rejeu</span></div>
+                <div class="item"><span style="font-size: larger" class="magenta">Attaque par re-jeu</span></div>
                 <div class="item">Attaque par ré-émission d'un message précédemment capturé</div>
             </div>
         </section>
@@ -305,8 +313,8 @@
 
         <section>
             <div class="list" style="margin-top: 4em; margin-bottom: 100%">
-                <div class="item fragment"  data-fragment-index="0"><span class="magenta">Projet Athena</span></div>
-                <div style="margin-left: 15%" class="item fragment"  data-fragment-index="0">MIT [<span class="blue">1983</span>]</div>
+                <div class="item"><span class="magenta">Projet Athena</span></div>
+                <div style="margin-left: 15%" class="item">MIT [<span class="blue">1983</span>]</div>
                 <div style="margin-left: 15%" class="item fragment"  data-fragment-index="1">DEC, IBM</div>
                 <div style="margin-left: 15%" class="item fragment"  data-fragment-index="2">Hesiod, Moira, <span class="magenta">X Window System</span></div>
                 <div class="item fragment" data-fragment-index="3" style="margin-top: 1ex"><span class="magenta">Open source</span></div>
@@ -317,13 +325,13 @@
             </div>
         </section>
 
-        <section>
-            <div class="list" style="margin-top: 4em; margin-bottom: 100%">
-                <div class="item magenta" style="font-size: larger">Hypothèses</div>
-                <div style="margin-left: 15%" class="item fragment">Réseau non chiffré</div>
-                <div style="margin-left: 15%" class="item fragment">Capacités limitées (calcul, réseau)</div>
-            </div>
-        </section>
+<!--        <section>-->
+<!--            <div class="list" style="margin-top: 4em; margin-bottom: 100%">-->
+<!--                <div class="item magenta" style="font-size: larger">Hypothèses</div>-->
+<!--                <div style="margin-left: 15%" class="item fragment">Réseau non chiffré</div>-->
+<!--                <div style="margin-left: 15%" class="item fragment">Capacités limitées (calcul, réseau)</div>-->
+<!--            </div>-->
+<!--        </section>-->
 
         <section>
             <div class="list" style="margin-top: 4em; margin-bottom: 100%">
@@ -1175,8 +1183,8 @@ Kerberos
 
         <section>
             <div class="list" style="margin-top: 4em; margin-bottom: 100%">
-                <div class="item fragment" data-fragment-index="0">Authentification unique WEB</div>
-                <div style="margin-left: 15%" class="item fragment" data-fragment-index="0"><span class="magenta">OIDC</span>, <span class="magenta">SAML</span>...</div>
+                <div class="item">Authentification unique WEB</div>
+                <div style="margin-left: 15%" class="item"><span class="magenta">OIDC</span>, <span class="magenta">SAML</span>...</div>
                 <div style="margin-top: 2ex" class="item fragment" data-fragment-index="1">Transports d'assertions d'identité</div>
                 <div style="margin-top: 2ex" class="item fragment" data-fragment-index="2"><span class="code">AS_REQ</span></div>
                 <div style="margin-left: 15%" class="item fragment" data-fragment-index="2"><span class="magenta">177</span> octets</div>
